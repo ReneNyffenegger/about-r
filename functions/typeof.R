@@ -12,3 +12,7 @@ typeof(TRUE)
 
 typeof(typeof)
 # [1] "closure"
+
+data <- read.csv("data.csv")
+typeof(data)
+# [1] "list"
