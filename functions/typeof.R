@@ -13,6 +13,9 @@ typeof(TRUE)
 typeof(typeof)
 # [1] "closure"
 
+typeof(NA)
+# [1] "logical"
+
 data <- read.csv("data.csv")
 typeof(data)
 # [1] "list"
