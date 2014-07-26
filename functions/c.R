@@ -15,3 +15,6 @@ v
 
 is.vector(v)
 # [1] TRUE
+
+dim(v)
+# NULL
