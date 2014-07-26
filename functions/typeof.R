@@ -4,6 +4,9 @@ typeof(42)
 typeof("foo")
 # [1] "character"
 
+typeof(as.Date("2014-06-25"))
+# [1] double
+
 typeof(c(1,2,3))
 # [1] "double"
 
