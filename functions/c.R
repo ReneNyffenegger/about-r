@@ -12,3 +12,6 @@ v <- c(1, 2, 3)
 v <- append(v, c(4, 5, 6))
 v
 # [1] 1 2 3 4 5 6
+
+is.vector(v)
+# [1] TRUE
