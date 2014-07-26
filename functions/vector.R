@@ -4,3 +4,6 @@ show(vec_num)
 
 is.vector(vec_num)
 # [1] TRUE
+
+dim(vec_num)
+# NULL
