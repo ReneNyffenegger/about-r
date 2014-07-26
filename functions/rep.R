@@ -1,3 +1,7 @@
+#
+#   See also rep_len()
+#
+
 foo <- 1:5
 
 foo_x3 <- rep(foo, 3)
