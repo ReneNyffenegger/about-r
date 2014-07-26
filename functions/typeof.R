@@ -10,6 +10,9 @@ typeof(as.Date("2014-06-25"))
 typeof(c(1,2,3))
 # [1] "double"
 
+typeof(factor(c(1,2,3)))
+# [1] "integer"
+
 typeof(TRUE)
 # [1] "logical"
 
@@ -24,6 +27,9 @@ typeof(NULL)
 
 typeof(+Inf)
 # [1] "double"
+
+typeof(table(c("Foo", "Bar", "Baz")))
+# [1] "integer"
 
 typeof(data.frame())
 # [1] "list"
