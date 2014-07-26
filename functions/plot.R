@@ -9,6 +9,7 @@ plot(x, y,
     xlab="x"           , # x label
     ylab="f(x)"        , # y label,
     col ="blue"        , # color
+    pch = 19           , # 19=solid
     type="p"             # type (p = points, also possible: l, b, c, o, h, s, S, na
     )
 
