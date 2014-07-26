@@ -22,6 +22,9 @@ typeof(NULL)
 typeof(+Inf)
 # [1] "double"
 
+typeof(data.frame())
+# [1] "list"
+
 data <- read.csv("data.csv")
 typeof(data)
 # [1] "list"
