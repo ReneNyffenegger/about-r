@@ -4,11 +4,17 @@ typeof(42)
 typeof("foo")
 # [1] "character"
 
+typeof(2+4i)
+# [1] "complex"
+
 typeof(as.Date("2014-06-25"))
 # [1] double
 
 typeof(c(1,2,3))
 # [1] "double"
+
+typeof(vector())
+# [1] "logical" 
 
 typeof(factor(c(1,2,3)))
 # [1] "integer"
