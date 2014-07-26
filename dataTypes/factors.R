@@ -7,3 +7,10 @@ fac <- factor(vec)
 summary (fac)
 #  1  2  3  4  5  6  7  8  9 10
 #  1  1  1  1  1  1  1  1  1  1
+
+
+is.factor(vec)
+# [1] FALSE
+
+is.factor(fac)
+# [1] TRUE
