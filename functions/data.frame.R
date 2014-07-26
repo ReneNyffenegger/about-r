@@ -20,3 +20,6 @@ dataFrame_2 <- data.frame (
 # 3   Baz    33   ghi
 
 show (dataFrame_2)
+
+dim(dataFrame_2)
+# [1] 3 3
