@@ -17,7 +17,10 @@ typeof(NA)
 # [1] "logical"
 
 typeof(NULL)
-# [1] "logical"
+# [1] "NULL"
+
+typeof(+Inf)
+# [1] "double"
 
 data <- read.csv("data.csv")
 typeof(data)
