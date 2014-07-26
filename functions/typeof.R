@@ -16,6 +16,9 @@ typeof(typeof)
 typeof(NA)
 # [1] "logical"
 
+typeof(NULL)
+# [1] "logical"
+
 data <- read.csv("data.csv")
 typeof(data)
 # [1] "list"
