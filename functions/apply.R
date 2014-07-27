@@ -1,3 +1,6 @@
+#
+#  Compare with lapply and rapply
+#
 m = matrix( c(   1,  19, 513,4173, 
                  8,  12, 281,6932,
                  7,  15, 801,7121),
