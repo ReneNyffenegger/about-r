@@ -23,3 +23,19 @@ show (dataFrame_2)
 
 dim(dataFrame_2)
 # [1] 3 3
+
+# -----------------------------------------------
+#
+#        Data Frame with «default value» for
+#        all elements in a column:
+
+dataFrame_3 <- data.frame (
+                 col_1 = TRUE,
+                 col_2 = c("one", "two", "three"),
+                 col_3 = c("Foo", "Bar", "Baz"  ),
+                 col_4 =  NA )
+dataFrame_3
+#   col_1 col_2 col_3 col_4
+# 1  TRUE   one   Foo    NA
+# 2  TRUE   two   Bar    NA
+# 3  TRUE three   Baz    NA
