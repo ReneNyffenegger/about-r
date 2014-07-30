@@ -7,3 +7,5 @@ order(v)
 
 v[order(v)]
 # [1] 18 26 37 41
+
+# Compare with -> rank
