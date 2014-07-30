@@ -1,3 +1,7 @@
+#
+# Compare with -> rank
+#
+
 v <- c ( 41, 18, 37, 26)
 order(v)
 # [1] 2 4 3 1
@@ -8,4 +12,3 @@ order(v)
 v[order(v)]
 # [1] 18 26 37 41
 
-# Compare with -> rank
