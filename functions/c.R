@@ -20,5 +20,14 @@ v
 is.vector(v)
 # [1] TRUE
 
+v[2]
+# [1] 2
+
+v[0]
+# numeric(0)
+
+v[2:4]
+# [1] 2 3 4
+
 dim(v)
 # NULL
