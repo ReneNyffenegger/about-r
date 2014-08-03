@@ -1,3 +1,7 @@
+#
+#    Compare with -> read.fwf
+#
+
 data <- read.csv("data.csv")
 
 show(data)
