@@ -10,7 +10,15 @@ plot(x, y,
     ylab="f(x)"        , # y label,
     col ="blue"        , # color
     pch = 19           , # 19=solid
-    type="p"             # type (p = points, also possible: l, b, c, o, h, s, S, na
+    type="p"             # type (p = points, also possible: 
+                         #       l = lines
+                         #       b = both lines and points
+                         #       c = b without p
+                         #       o = overplotted
+                         #       h = histogram
+                         #       s = stair steps 
+                         #       S = other steps,
+                         #       n = not plotting
     )
 
 
