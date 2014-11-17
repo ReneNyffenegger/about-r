@@ -7,3 +7,6 @@ ls()
 
 
 ls('package:base')
+#
+#  Compare with apropos()
+#
