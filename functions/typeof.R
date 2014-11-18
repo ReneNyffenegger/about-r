@@ -1,5 +1,5 @@
 
-# Possible values returned by typeof and what they are
+# Possible values returned by typeof and what they are {
 # ----------------------------------------------------
 #
 #    Compare http://cran.r-project.org/doc/manuals/R-lang.pdf, Chapter 2 «Objects»
@@ -31,7 +31,9 @@
 #      "S4"           an S4 object which is not a simple object
 # 
 #   *** Users cannot easily get hold of objects of these types.
+# }
 #
+# Compare with -> mode
 
 typeof(42)
 # [1] "double"
