@@ -1,3 +1,38 @@
+
+# Possible values returned by typeof and what they are
+# ----------------------------------------------------
+#
+#    Compare http://cran.r-project.org/doc/manuals/R-lang.pdf, Chapter 2 «Objects»
+# 
+# 
+#      "NULL"         NULL
+#      "symbol"       a variable name
+#      "pairlist"     a pairlist object (mainly internal)
+#      "closure"      a function
+#      "environment"  an environment
+#      "promise"      an object used to implement lazy evaluation
+#      "language"     an R language construct
+#      "special"      an internal function that does not evaluate its arguments
+#      "builtin"      an internal function that evaluates its arguments
+#      "char"         a ‘scalar’ string object (internal only)                                 ***
+#      "logical"      a vector containing logical values
+#      "integer"      a vector containing integer values
+#      "double"       a vector containing real values
+#      "complex"      a vector containing complex values
+#      "character"    a vector containing character values
+#      "..."          the special variable length argument                                     ***
+#      "any"          a special type that matches all types: there are no objects of this type
+#      "expression"   an expression object
+#      "list"         a list
+#      "bytecode"     byte code (internal only)                                                ***
+#      "externalptr"  an external pointer object
+#      "weakref"      a weak reference object
+#      "raw"          a vector containing bytes
+#      "S4"           an S4 object which is not a simple object
+# 
+#   *** Users cannot easily get hold of objects of these types.
+#
+
 typeof(42)
 # [1] "double"
 
