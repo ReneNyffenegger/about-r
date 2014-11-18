@@ -1,5 +1,5 @@
 #
-#   Compare with -> typeof
+#   Compare with -> typeof and -> ../dataTypes/vector_types.R
 #
 
 

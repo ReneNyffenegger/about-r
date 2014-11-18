@@ -33,7 +33,7 @@
 #   *** Users cannot easily get hold of objects of these types.
 # }
 #
-# Compare with -> mode
+# Compare with -> mode and -> ../dataTypes/vector_types.R
 
 typeof(42)
 # [1] "double"
