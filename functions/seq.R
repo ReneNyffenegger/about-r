@@ -1,3 +1,6 @@
+#
+#  Compare with -> colon operator
+#
 x11(width=20,height=10)
 
 x <- seq(-5, 5, by=.1)
