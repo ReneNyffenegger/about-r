@@ -1,5 +1,5 @@
 #
-#  The c stands for «combine».
+#  The c stands for «combine» (or «concatenate»?)
 #
 
 c(4,6,8:11,14)
