@@ -14,3 +14,13 @@ v[-2]
 #
 #   Note the 2nd element!
 #
+
+#  --- subscripting with boolean vectors:
+
+cities <- c("New York", "Paris", "Tokyo", "Amsterdam", "Johannesburg", "Berlin", "Berne", "Frankfurt")
+cityname.shorter.8 <- nchar(cities) < 8
+cityname.shorter.8
+# [1] FALSE  TRUE  TRUE FALSE FALSE  TRUE  TRUE FALSE
+
+cities[cityname.shorter.8]
+# [1] "Paris"  "Tokyo"  "Berlin" "Berne"
