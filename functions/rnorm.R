@@ -1,4 +1,6 @@
 # rnorm: the normal distribution
+#
+# see also -> sd()
 
 n <- rnorm(1000000, mean = 100, sd = 36)
 
