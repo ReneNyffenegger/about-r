@@ -1,5 +1,5 @@
 #
-#   See aslo -> list.files()
+#   See aslo -> list.files() and -> setwd()
 #
 getwd()
 #
