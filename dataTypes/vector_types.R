@@ -43,3 +43,16 @@ typeof_mode_storage.mode(raw(2)            )
 # [1] "  complex     complex     complex   "
 # [1] "  character   character   character "
 # [1] "  raw         raw         raw       "
+
+
+
+v <- 42:100
+
+head  (v)
+# [1] 42 43 44 45 46 47
+
+tail  (v)
+# [1]  95  96  97  98  99 100
+
+length(v)
+# [1] 59
