@@ -14,3 +14,13 @@ show(data)
 data$col_1
 # [1] foo one
 # Levels: foo one
+
+
+# Read a semicolon seperated file:
+data_ssv <- read.csv("data-no-header.ssv", head=FALSE, sep=";")
+show(data_ssv)
+#
+#       V1  V2     V3
+# 1    foo bar    baz
+# 2      1   2      3
+# 3 orange     banana
