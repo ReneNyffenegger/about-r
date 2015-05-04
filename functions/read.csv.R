@@ -1,5 +1,5 @@
 #
-#    Compare with -> read.fwf
+#    Compare with -> read.fwf (for reading «fixed width field» files).
 #
 
 data <- read.csv("data.csv")
