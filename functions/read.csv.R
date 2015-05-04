@@ -2,6 +2,8 @@
 #    Compare with -> read.fwf (for reading «fixed width field» files).
 #
 
+# Assume data.csv with a header and values
+# to be seperated by commas (","):
 data <- read.csv("data.csv")
 
 show(data)
