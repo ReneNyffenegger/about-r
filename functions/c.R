@@ -20,6 +20,9 @@ v
 is.vector(v)
 # [1] TRUE
 
+# Subscripting the list, note the indeces
+# are 1-based...
+#
 v[2]
 # [1] 2
 
