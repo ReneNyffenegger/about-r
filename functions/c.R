@@ -26,6 +26,9 @@ is.vector(v)
 v[2]
 # [1] 2
 
+# The 0-entry (or index) indicates how the
+# environment treats the date (here: as numeric)
+#
 v[0]
 # numeric(0)
 
