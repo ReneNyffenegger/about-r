@@ -10,3 +10,8 @@ mean(d, na.rm=TRUE )
 
 mean(d, na.rm=FALSE)
 # [1] NA
+#
+
+
+#   See also
+#     -> summary

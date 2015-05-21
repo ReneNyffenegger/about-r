@@ -1,5 +1,6 @@
 cat ("\n\n")
 
+# See also -> min, -> median, -> quantile, -> max
 summary(c(  4, 9, 5, 1000, 11, 5, 8) )
 #  Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
 #   4.0     5.0     8.0   148.9    10.0  1000.0
