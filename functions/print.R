@@ -3,3 +3,5 @@ print("foo")
 
 print(c("bar", "baz"))
 # [1] "bar" "baz"
+
+# See also cat
