@@ -6,7 +6,7 @@ y_chisq <- dchisq(x,  0.5)
 
 x11()
 
-plot  (x, y_norm   , pch=2, col=2)
+plot  (x, y_norm   , pch=2, col=2, xlab="x", ylab="distribution", main="Example for legend()")
 points(x, y_t      , pch=3, col=3)
 points(x, y_chisq  , pch=4, col=4)
 
