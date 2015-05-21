@@ -49,3 +49,8 @@ is.matrix(m_by_col)
 dim(m_by_col)
 # [1] 3 4
 
+
+#
+#   See also
+#     -> colnames  (to give names to the columns of the matrix)
+#
