@@ -1,6 +1,8 @@
 #
 #    Compare with -> read.fwf (for reading «fixed width field» files).
 #
+#    Use -> names to show column-names of csv.
+#
 
 
 # Assume data.csv with a header and values

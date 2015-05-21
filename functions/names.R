@@ -11,3 +11,10 @@ names(v) <- c("one", "two", "three", "four")
 v
 #   one   two three  four
 #     1     2     3     4
+
+cat("\n\n\n")
+
+
+w <- read.csv("data.csv")
+names(w)
+# [1] "col_1" "col_2" "col_3"
