@@ -42,3 +42,9 @@ dim(v)
 
 v[7]
 # [1] NA
+
+# Assiging names to the elements:
+named <- c(foo="abc", bar="def", baz="ghi")
+named
+#   foo   bar   baz
+# "abc" "def" "ghi"
