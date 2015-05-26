@@ -8,3 +8,16 @@ f <- factor(g)
 summary(f)
 # 1 2 3 4 5
 # 3 1 1 2 1
+
+#
+# ------------------
+#
+
+
+foo_iso_numbers       <- c(276, 380, 276, 756, 756,  40)
+foo_iso_names         <- factor(foo_iso_numbers, levels=c(40, 276, 380, 756))
+levels(foo_iso_names) <- c('Austria', 'Germany', 'Italy', 'Switzerland')
+foo_iso_names
+# [1] Germany     Italy       Germany     Switzerland Switzerland Austria
+# Levels: Austria Germany Italy Switzerland
+
