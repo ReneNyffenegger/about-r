@@ -3,6 +3,12 @@ d <- c (0:10)
 mean(d)
 # [1] 5
 
+#
+# The mean can also more verbosely be expressed like so:
+#
+sum(d) / length(d)
+# [1] 5
+
 d <- append(d, NA)
 
 mean(d, na.rm=TRUE )
@@ -11,6 +17,7 @@ mean(d, na.rm=TRUE )
 mean(d, na.rm=FALSE)
 # [1] NA
 #
+
 
 
 #   See also
