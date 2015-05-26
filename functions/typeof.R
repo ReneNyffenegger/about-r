@@ -80,3 +80,6 @@ typeof(data.frame())
 data <- read.csv("data.csv")
 typeof(data)
 # [1] "list"
+
+typeof(list (c('foo', 'bar', 'baz'), c(11, 27, 39, 47, 51)))
+# [1] "list"
