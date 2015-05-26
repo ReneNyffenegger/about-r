@@ -35,3 +35,20 @@ l[2]
 
 unlist(l)
 # [1]   1   2   3 999  20  30 100 200 300
+
+# ------------------------
+
+abc <- 1:10
+def <- 95:99
+ghi <- 22:26
+
+abc_def_ghi <- list(part_one = abc, part_two = def, part_three = ghi)
+abc_def_ghi
+# $part_one
+#  [1]  1  2  3  4  5  6  7  8  9 10
+# 
+# $part_two
+# [1] 95 96 97 98 99
+# 
+# $part_three
+# [1] 22 23 24 25 26
