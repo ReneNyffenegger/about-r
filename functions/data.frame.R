@@ -1,3 +1,10 @@
+#
+#    A data frame is like a matrix, but: while matrices
+#    have the same data type for all elements, a data frame
+#    can have different datatypes in its columns.
+#
+
+
 alphabeth <- c("Alpha", "Beta", "Gamma")
 numbers   <- c( 1.1   ,  2.02 ,  3.003 )
 blabla    <- c("Foo"  , "Bar" , "Baz"  )
