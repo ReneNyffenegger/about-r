@@ -21,3 +21,9 @@ foo_iso_names
 # [1] Germany     Italy       Germany     Switzerland Switzerland Austria
 # Levels: Austria Germany Italy Switzerland
 
+as.numeric(foo_iso_names)
+# [1] 2 3 2 4 4 1
+
+levels(foo_iso_names)
+# [1] "Austria"     "Germany"     "Italy"       "Switzerland"
+
