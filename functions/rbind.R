@@ -1,4 +1,4 @@
-# rbind stands for «row-bind»
+# rbind stands for «row-bind». See also -> cbind
 
 a <- 100:104
 b <- 10 + 5*0:4
