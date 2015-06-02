@@ -52,3 +52,21 @@ abc_def_ghi
 # 
 # $part_three
 # [1] 22 23 24 25 26
+
+
+# ------------------------
+# Unlike -> c(), list can combine different datatypes:
+cat("\n")
+list_1 <- list("foo", TRUE, 2.4)
+str(list_1)
+# List of 3
+#  $ : chr "foo"
+#  $ : logi TRUE
+#  $ : num 2.4
+
+cat("\n")
+c_1    <- c   ("foo", TRUE, 2.4)
+str(c_1)
+# chr [1:3] "foo" "TRUE" "2.4"
+#
+# (Note the apostrophes around 2.4 and TRUE!
