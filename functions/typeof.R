@@ -83,3 +83,6 @@ typeof(data)
 
 typeof(list (c('foo', 'bar', 'baz'), c(11, 27, 39, 47, 51)))
 # [1] "list"
+
+typeof( quote(z<-x*y))
+# [1] "language"
