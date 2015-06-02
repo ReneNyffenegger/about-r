@@ -3,6 +3,8 @@
 #
 #  c() is used to define vectors.
 #
+#  Compare with -> list()
+#
 
 c(4,6,8:11,14)
 # [1]  4  6  8  9 10 11 14
