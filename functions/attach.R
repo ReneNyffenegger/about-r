@@ -1,5 +1,5 @@
 #
-#    Compare with -> with
+#    Compare with -> with and -> detatch
 #
 df <- data.frame(foo=c(  1,  2,  3),
                  bar=c( 11, 22, 33),
