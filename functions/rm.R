@@ -11,6 +11,9 @@ rm ( list = c("var_1", "var_3") )
 ls()
 # [1] "var_2" "var_4"
 
+#
+#   Get rid of everything:
+#
 rm ( list = ls() )
 
 ls()
