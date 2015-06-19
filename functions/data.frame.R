@@ -108,3 +108,15 @@ dataFrame_5[3:5,2:3]
 # 3      baz     c
 # 4 more-foo     d
 # 5 more-bar     e
+
+cat("\n\n")
+
+#
+#         Subscripts with logical tests
+#
+
+dataFrame_5[dataFrame_5$col_1 < 5 & dataFrame_5$col_4 > 20, c(1,4)]
+#   col_1 col_4
+# 1     1    22
+# 2     2    38
+# 4     4    65
