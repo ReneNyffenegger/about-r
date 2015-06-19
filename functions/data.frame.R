@@ -113,6 +113,7 @@ cat("\n\n")
 
 #
 #         Subscripts with logical tests
+#         SQL's equivalent would be «where»
 #
 
 dataFrame_5[dataFrame_5$col_1 < 5 & dataFrame_5$col_4 > 20, c(1,4)]
@@ -120,3 +121,10 @@ dataFrame_5[dataFrame_5$col_1 < 5 & dataFrame_5$col_4 > 20, c(1,4)]
 # 1     1    22
 # 2     2    38
 # 4     4    65
+
+# -----------------------------------------------
+#
+#        Sorting
+#        SQL's equivalent would be «order by»
+#
+dataFrame_5[order(dataFrame_5[,2]),]
