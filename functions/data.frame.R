@@ -75,3 +75,36 @@ attributes(dataFrame_4)
 # 
 # $class
 # [1] "data.frame"
+
+
+
+# -----------------------------------------------
+#
+#        Subscripts
+#
+
+dataFrame_5 <- data.frame (
+
+                col_1 = c(   1 ,    2 ,    3 ,         4 ,         5 ,         6 ),
+                col_2 = c('foo', 'bar', 'baz', 'more-foo', 'more-bar', 'more-baz'),
+                col_3 = c(  "a",   "b",   "c",        "d",        "e",        "f"),
+                col_4 = c(  22 ,    38,   17 ,        65 ,        72 ,        48 ),
+                col_5 = c("ABC", "DEF", "GHI",      "JKL",      "MNO",      "PQR")
+             )
+
+dataFrame_5[,2:4]
+#      col_2 col_3 col_4
+# 1      foo     a    22
+# 2      bar     b    38
+# 3      baz     c    17
+# 4 more-foo     d    65
+# 5 more-bar     e    72
+# 6 more-baz     f    48
+
+cat("\n\n")
+
+dataFrame_5[3:5,2:3]
+#      col_2 col_3
+# 3      baz     c
+# 4 more-foo     d
+# 5 more-bar     e
