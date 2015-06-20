@@ -6,3 +6,5 @@ sum(l)
 sum(l, na.rm=TRUE)
 # [1] 15
 
+#
+#    See also -> cumsum
