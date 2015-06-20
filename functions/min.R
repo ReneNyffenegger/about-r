@@ -3,4 +3,4 @@ min(c(5, 10, 3, 9, 20))
 
 #
 #   See also
-#     -> summary
+#     -> summary, -> range
