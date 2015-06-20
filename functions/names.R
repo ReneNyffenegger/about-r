@@ -12,6 +12,14 @@ v
 #   one   two three  four
 #     1     2     3     4
 
+v["two"]
+# two
+#   2
+
+v[c('two', 'four')]
+# two four
+#   2    4
+
 cat("\n\n\n")
 
 
