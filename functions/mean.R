@@ -1,3 +1,7 @@
+#   See also
+#     -> summary()
+#
+
 d <- c (0:10)
 
 mean(d)
@@ -18,7 +22,10 @@ mean(d, na.rm=FALSE)
 # [1] NA
 #
 
+#
+#      Trimmed mean:
+#
 
-
-#   See also
-#     -> summary
+e <- c(  12, 19, 36, 38, 39, 40, 42, 44, 66, 91)
+mean(e, trim=0.2) # Trim 20% on either side
+# [1] 39.83333
