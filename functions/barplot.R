@@ -1,3 +1,7 @@
+#
+#   Compare with -> hist
+#
+
 x11(width="28")
 foo <- c(2, 1, 2, 4, 4, 1, 2, 2, 1, 3, 4, 2)
 

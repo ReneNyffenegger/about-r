@@ -1,3 +1,7 @@
+#
+#    Compare with -> barplot
+#
+
 r <- runif(1000, -1, 1)
 
 v <- r * r * sin(r)
