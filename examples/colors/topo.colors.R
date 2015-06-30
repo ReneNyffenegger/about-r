@@ -1,5 +1,5 @@
 #
-#  Compare with ->heat.colors, ->terrain.colors, ->topo.colors
+#  Compare with ->heat.colors, ->rainbow, ->terrain.colors
 #
 
 X11()
@@ -8,7 +8,7 @@ drawRainbow <- function(n) {
 
   barplot(
     rep(1,n),
-    col=rainbow(n),
+    col=topo.colors(n),
     yaxt='n')
   
   z <- locator(1)
