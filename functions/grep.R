@@ -8,3 +8,12 @@ grep("Ba", words, value=FALSE)
 
 grep("Ba", words, value=TRUE)
 # [1] "Bar" "Baz"
+
+colors()[grep('red', colors())]
+#  [1] "darkred"         "indianred"       "indianred1"      "indianred2"
+#  [5] "indianred3"      "indianred4"      "mediumvioletred" "orangered"
+#  [9] "orangered1"      "orangered2"      "orangered3"      "orangered4"
+# [13] "palevioletred"   "palevioletred1"  "palevioletred2"  "palevioletred3"
+# [17] "palevioletred4"  "red"             "red1"            "red2"
+# [21] "red3"            "red4"            "violetred"       "violetred1"
+# [25] "violetred2"      "violetred3"      "violetred4"
