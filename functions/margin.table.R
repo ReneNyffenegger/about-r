@@ -1,3 +1,7 @@
+#
+#     See also -> addmargins
+#
+
 m <- matrix (
        c(    4, 1, 3,
              2, 1, 2,
