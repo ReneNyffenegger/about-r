@@ -3,11 +3,15 @@ X11()
 x <- seq(-1, 1, length.out=50)
 
 layout(
-  matrix ( c( 1, 1, 
-              2, 3,
-              2, 4),
-  nrow=3, ncol=2,
-  byrow=TRUE)
+  matrix (
+    c( 1, 1, 
+       2, 3,
+       2, 4),
+    nrow=3, ncol=2,
+    byrow=TRUE
+  ),
+  widths =c(2, 1),
+  heights=c(3, 4, 2)
 )
 
 plot(x, sin(x*3))
