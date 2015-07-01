@@ -20,7 +20,6 @@ show(n)
 # [1]   1   3  22 111
 
 
-
 # ------------------------------------------
 #      A «byrow» matrix
 
@@ -40,6 +39,23 @@ show(m_by_row)
 n <- m_by_row[c(1,3,5,7)]       # Note: counts as in a «by col» matrix.
 show(n)
 # [1]   1 111  22   3
+
+# ------------------------------------------
+#      Create a 10x5 matrix with all
+#      cells being NA:
+
+matrix(nrow=10, ncol=5)
+#       [,1] [,2] [,3] [,4] [,5]
+#  [1,]   NA   NA   NA   NA   NA
+#  [2,]   NA   NA   NA   NA   NA
+#  [3,]   NA   NA   NA   NA   NA
+#  [4,]   NA   NA   NA   NA   NA
+#  [5,]   NA   NA   NA   NA   NA
+#  [6,]   NA   NA   NA   NA   NA
+#  [7,]   NA   NA   NA   NA   NA
+#  [8,]   NA   NA   NA   NA   NA
+#  [9,]   NA   NA   NA   NA   NA
+# [10,]   NA   NA   NA   NA   NA
 
 # ------------------------------------------
 
