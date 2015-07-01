@@ -7,6 +7,7 @@
 #          judging relative areas. A bar chart or dot chart is a
 #          preferable way of displaying this type of data.»
 #
+#    See ../examples/colors/hue.R on how pie might be used.
 
 x11()
 
