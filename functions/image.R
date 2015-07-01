@@ -18,3 +18,17 @@ smiley <- matrix (
 image(smiley)
 
 z <- locator(1)
+
+# ------------------------------------
+
+m <- outer (
+  
+      seq(-10, 10, length.out=200),
+      seq(-10, 10, length.out=200),
+      function (x, y) {
+         sin(x) + cos(y)
+      }
+)
+
+image(m)
+z <- locator(1)
