@@ -1,3 +1,7 @@
+#
+#   See also ../examples/graphs/legend.R
+#
+
 x       <- seq(-5, 5, 0.1)
 
 y_norm  <- dnorm (x)
