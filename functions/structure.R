@@ -1,3 +1,7 @@
+#
+#   S.a. -> str()
+#
+
 mm <- structure ( 1:6 , .Dim = 2:3 )
 
 mm
