@@ -16,4 +16,16 @@ attach(df)
 sum(bar)
 # [1] 66
 
+
+# { attach creates a copy of the data
+#   The mulitplication of bar doesn't
+#   affect df$bar:
+
+bar = bar * 2
+
+df$bar
+# [1] 11 22 33
+
+# }
+
 detach(df)
