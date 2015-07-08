@@ -29,3 +29,12 @@ df$bar
 # }
 
 detach(df)
+
+# After detach'ing df, the variable foo is not available
+# anymore. However, bar is, because it was modified
+# earlier.
+
+# foo  # Error: object 'foo' not found
+
+bar
+# [1] 22 44 66
