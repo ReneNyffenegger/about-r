@@ -1,7 +1,9 @@
 #
 #  str stands for structure
 #
-#  s.a. -> structure()
+#  s.a. -> structure(), 
+#       ../examples/having_a_look_at_data.R
+#
 
 
 d <- data.frame (

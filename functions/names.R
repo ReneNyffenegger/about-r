@@ -1,3 +1,7 @@
+#
+#    S.a. ../examples/having_a_look_at_data.R
+#
+
 l <- list(foo = 42, bar = 1:10, baz = 1:3 )
 
 n <- names(l)

@@ -1,5 +1,6 @@
 #
-#  See also -> attr()
+#  S.a. -> attr()
+#       ../examples/having_a_look_at_data.R
 #
 
 attributes(42)

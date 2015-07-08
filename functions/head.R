@@ -2,6 +2,8 @@
 #
 # Compare with -> tail()
 #
+# S.a. ../examples/having_a_look_at_data.R
+#
 
 head (1:100)
 # [1] 1 2 3 4 5 6

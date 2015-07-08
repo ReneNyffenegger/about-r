@@ -1,3 +1,8 @@
+#
+#    S.a. ../examples/having_a_look_at_data.R
+#
+
+
 dataFrame <- data.frame (
                col_1 = c("Foo", "Bar", "Baz"),
                col_2 = c(  11 ,   22 ,   33 ))
