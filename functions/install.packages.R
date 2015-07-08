@@ -1,5 +1,6 @@
 install.packages("FNN")
 install.packages("ggplot2")
 # install.packages("quantmod")
+install.packages("RODBC")
 # install.packages("rgl"      , repos="http://R-Forge.R-project.org")
 install.packages("scatterplot3d")
