@@ -1,3 +1,7 @@
+#
+#  S.a. -> read.csv()
+#
+
 col_1 <-  c(   1 ,    2 ,    3 )
 col_2 <-  c("foo", "bar", "baz")
 

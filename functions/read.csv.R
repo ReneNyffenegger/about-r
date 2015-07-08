@@ -1,6 +1,8 @@
 #
 #    Compare with -> read.fwf (for reading «fixed width field» files).
 #
+#    S.a. -> write.csv()
+#
 #    Use -> names to show column-names of csv.
 #
 
