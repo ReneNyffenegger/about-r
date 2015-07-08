@@ -19,3 +19,11 @@ tab_3
 # CCC iii    0   0   1
 #     qqq    0   0   0
 #     yyy    0   0   0
+
+tab_3 <- ftable(foo = c("AAA", "AAA", "BBB", "AAA", "AAA", "CCC", "BBB", "BBB", "AAA"),
+                bar = c("yyy", "yyy", "qqq", "yyy", "qqq", "iii", "yyy", "qqq", "iii"),
+                baz = c("___", "###", "___", "___", "###", "___", "___", "###", "???"),
+              # ------
+                col.vars = c('foo', 'bar')
+              )
+tab_3
