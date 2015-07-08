@@ -1,3 +1,6 @@
+#
+#   See also -> ftable()
+#
 tab_1 <- table(c("ABC", "DEF", "ABC", "ABC", "GHI", "DEF", "ABC"))
 
 # Elements with their frequencies:
@@ -31,6 +34,8 @@ attributes(tab_2)
 # $class
 # [1] "table"
 
+# A Three-way contingency table (more generally n-way contingency table): {
+
 tab_3 <- table(c("AAA", "AAA", "BBB", "AAA", "AAA", "CCC", "BBB", "BBB", "AAA"),
                c("yyy", "yyy", "qqq", "yyy", "qqq", "iii", "yyy", "qqq", "iii"),
                c("___", "###", "___", "___", "###", "___", "___", "###", "???")
@@ -59,3 +64,5 @@ tab_3
 #   AAA   0   0   2
 #   BBB   0   1   1
 #   CCC   1   0   0
+
+# }

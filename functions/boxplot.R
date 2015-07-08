@@ -1,3 +1,13 @@
+X11()
+
+#           |     |    |
+v <- c(3, 3, 4, 5, 5, 8, 11, 14)
+
+boxplot(v)
+
+
+z <- locator(1) # wait for mouse click or enter pressed
+
 d <- data.frame (
   c1 = rnorm (100, mean =  5, sd = 0.3),
   c2 = rnorm (100, mean =  7, sd = 4.0),
@@ -5,7 +15,6 @@ d <- data.frame (
   c4 = rnorm (100, mean =  4, sd = 3.0)
 )
 
-X11()
 
 boxplot(d)
 
