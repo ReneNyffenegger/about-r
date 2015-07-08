@@ -10,10 +10,15 @@ grep("Ba", words, value=TRUE)
 # [1] "Bar" "Baz"
 
 # { Lowercase and uppercase
+
 grep("o", words, value=TRUE)
 # [1] "Foo" "Two"
 
 grep("[Oo]", words, value=TRUE)
+# [1] "Foo" "One" "Two"
+
+# Perhaps the simplest case:
+grep("o", words, value=TRUE, ignore.case=TRUE)
 # [1] "Foo" "One" "Two"
 
 # }
