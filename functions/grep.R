@@ -9,6 +9,15 @@ grep("Ba", words, value=FALSE)
 grep("Ba", words, value=TRUE)
 # [1] "Bar" "Baz"
 
+# { Lowercase and uppercase
+grep("o", words, value=TRUE)
+# [1] "Foo" "Two"
+
+grep("[Oo]", words, value=TRUE)
+# [1] "Foo" "One" "Two"
+
+# }
+
 colors()[grep('red', colors())]
 #  [1] "darkred"         "indianred"       "indianred1"      "indianred2"
 #  [5] "indianred3"      "indianred4"      "mediumvioletred" "orangered"
