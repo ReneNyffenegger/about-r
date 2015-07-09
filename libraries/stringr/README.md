@@ -17,12 +17,12 @@ another.
   <tr>
     <td><code>str_c</code></td>
     <td>string concatenation</td>
-    <td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste.R'>paste</a></code></td>
+    <td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste.R">paste</a></code></td>
   </tr>
   <tr>
     <td><code>str_length</code></td>
     <td>number of characters</td>
-    <td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/nchar.R'>nchar</a></code></td>
+    <td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/nchar.R">nchar</a></code></td>
   </tr>
   <tr>
     <td><code>str_sub</code></td>
@@ -47,7 +47,7 @@ another.
   <tr>
     <td><code>str_wrap</code></td>
     <td>wraps a string paragraph</td>
-    <td><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/strwrap.R">strwrap</a></td>
+    <td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/strwrap.R">strwrap</a></code></td>
   </tr>
   <tr>
     <td><code>str_wrap</code></td>
