@@ -92,7 +92,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/min.R"                        >min</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/mode.R"                       >mode</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/names.R"                      >names</a>               </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/nchar.R"                      >nchar</a>               </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/nchar.R"                      >nchar</a>               </td><td>S.a. <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/stringr/str_length.R">str_length</a></code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/noquote.R"                    >noquote</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/numeric.R"                    >numeric</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/options.R"                    >options</a>             </td><td></td></tr>
@@ -101,6 +101,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pairs.R"                      >pairs</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/par.R"                        >par</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste.R"                      >paste</a>               </td><td></td></tr>
+library(stringr)
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste0.R"                     >paste0</a>              </td><td>S.a. <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/stringr/str_c.R">str_c</a></code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pdf.R"                        >pdf</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pie.R"                        >pie</a>                 </td><td></td></tr>
