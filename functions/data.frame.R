@@ -128,3 +128,34 @@ dataFrame_5[dataFrame_5$col_1 < 5 & dataFrame_5$col_4 > 20, c(1,4)]
 #        SQL's equivalent would be «order by»
 #
 dataFrame_5[order(dataFrame_5[,2]),]
+
+# { Parameter stringsAsFactors
+#   By defalt, character strings inside a data frame
+#   will be converted to factors.
+
+cat("\n\n")
+
+df <- data.frame(
+        n = c(   1 ,    2 ,    3 ),
+        c = c('foo', 'bar', 'baz')
+)
+
+str(df)
+# 'data.frame':   3 obs. of  2 variables:
+#  $ n: num  1 2 3
+#  $ c: Factor w/ 3 levels "bar","baz","foo": 3 1 2
+
+cat ("\n\n")
+
+df <- data.frame(
+        n = c(   1 ,    2 ,    3 ),
+        c = c('foo', 'bar', 'baz'),
+        stringsAsFactors = FALSE
+)
+
+str(df)
+# 'data.frame':   3 obs. of  2 variables:
+#  $ n: num  1 2 3
+#  $ c: chr  "foo" "bar" "baz"
+
+# }
