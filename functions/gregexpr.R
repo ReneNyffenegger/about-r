@@ -3,6 +3,7 @@ str <- c(
   'one two three four five'
 )
 
+# Positions of o:
 gregexpr("o", str)
 # [[1]]
 # [1] 2 3
