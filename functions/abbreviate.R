@@ -1,3 +1,7 @@
+#
+#   S.a. ../examples/basic_string_manipulation.R
+#
+
 states <- c (
    "Alabama"       , "Alaska"      , "Arizona"        , "Arkansas"      , "California"     ,
    "Colorado"      , "Connecticut" , "Delaware"       , "Florida"       , "Georgia"        ,
@@ -41,3 +45,9 @@ states_abbr
 # [21] "Mssc" "Mchg" "Mnns" "Msss" "Mssr" "Mntn" "Nbrs" "Nevd" "NwHm" "NwJr"
 # [31] "NwMx" "NwYr" "NrtC" "NrtD" "Ohio" "Oklh" "Orgn" "Pnns" "RhdI" "SthC"
 # [41] "SthD" "Tnns" "Texs" "Utah" "Vrmn" "Vrgn" "Wshn" "WstV" "Wscn" "Wymn"
+
+
+month_names <- abbreviate(month.name, minlength=3)
+names(month_names) <- NULL
+month_names
+#  [1] "Jnr" "Fbr" "Mrc" "Apr" "May" "Jun" "Jly" "Ags" "Spt" "Oct" "Nvm" "Dcm"
