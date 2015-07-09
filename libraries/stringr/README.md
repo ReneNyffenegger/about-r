@@ -47,7 +47,7 @@ another.
   <tr>
     <td><code>str_wrap</code></td>
     <td>wraps a string paragraph</td>
-    <td><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/strwrap.R'>strwrap</a></td>
+    <td><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/strwrap.R">strwrap</a></td>
   </tr>
   <tr>
     <td><code>str_wrap</code></td>
