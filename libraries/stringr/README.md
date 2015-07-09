@@ -10,9 +10,9 @@ another.
 <table>
 
   <tr>
-    <td>Function</td>
-    <td>Description</td>
-    <td>Similar to</td>
+    <td><b>Function   </b></td>
+    <td><b>Description</b></td>
+    <td><b>Similar to </b></td>
   </tr>
   <tr>
     <td><code>str_c</code></td>
