@@ -1,3 +1,7 @@
+#
+#   S.a. ../examples/printing_characters.R
+#
+
 print("foo")
 # [1] "foo"
 
