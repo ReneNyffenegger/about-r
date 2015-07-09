@@ -70,6 +70,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.numeric.R"                 >is.numeric</a>          </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.unsorted.R"                >is.unsorted</a>         </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.vector.R"                  >is.vector</a>           </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/jitter.R"                     >jitter</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/lapply.R"                     >lapply</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/layout.R"                     >layout</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/legend.R"                     >legend</a>              </td><td></td></tr>
@@ -101,7 +102,6 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pairs.R"                      >pairs</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/par.R"                        >par</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste.R"                      >paste</a>               </td><td></td></tr>
-library(stringr)
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste0.R"                     >paste0</a>              </td><td>S.a. <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/stringr/str_c.R">str_c</a></code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pdf.R"                        >pdf</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pie.R"                        >pie</a>                 </td><td></td></tr>
