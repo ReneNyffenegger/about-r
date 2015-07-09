@@ -1,5 +1,6 @@
 <table>
 
+<!-- { A -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/abbreviate.R"                 >abbreviate</a>          </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/abline.R"                     >abline</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/addmargins.R"                 >addmargins</a>          </td><td></td></tr>
@@ -12,6 +13,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/attach.R"                     >attach</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/attr.R"                       >attr</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/attributes.R"                 >attributes</a>          </td><td></td></tr>
+<!-- } -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/barplot.R"                    >barplot</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/boxplot.R"                    >boxplot</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/c.R"                          >c</a>                   </td><td></td></tr>
@@ -115,6 +117,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/qqplot.R"                     >qqplot</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/quantile.R"                   >quantile</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/quote.R"                      >quote</a>               </td><td></td></tr>
+<!-- { R -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/range.R"                      >range</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rank.R"                       >rank</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rbind.R"                      >rbind</a>               </td><td></td></tr>
@@ -122,6 +125,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/read.fwf.R"                   >read.fwf</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/readLines.R"                  >readLines</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rep.R"                        >rep</a>                 </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/replicate.R"                  >replicate</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rep_len.R"                    >rep_len</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/resid.R"                      >resid</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rev.R"                        >rev</a>                 </td><td></td></tr>
@@ -131,6 +135,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/round.R"                      >round</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rownames.R"                   >rownames</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/runif.R"                      >runif</a>               </td><td></td></tr>
+<!-- } -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sample.R"                     >sample</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sapply.R"                     >sapply</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/save.R"                       >save</a>                </td><td></td></tr>
