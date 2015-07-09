@@ -1,3 +1,8 @@
+#
+#   S.a. -> paste0()
+#
+
+
 paste("foo", "bar", "baz")
 # [1] "foo bar baz"
 
