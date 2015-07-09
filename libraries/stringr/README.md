@@ -27,7 +27,7 @@ another.
   <tr>
     <td><code>str_sub</code></td>
     <td>extract substrings</td>
-    <td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/substring.R'>substring</a></code></td> <!-- TODO: already a link??? -->
+    <td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/substring.R">substring</a></code></td> <!-- TODO: already a link??? -->
   </tr>
   <tr>
     <td><code>str_dup</code></td>
@@ -43,6 +43,11 @@ another.
     <td><code>str_pad</code></td>
     <td>pads a string</td>
     <td>n/a</td>
+  </tr>
+  <tr>
+    <td><code>str_wrap</code></td>
+    <td>wraps a string paragraph</td>
+    <td><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/strwrap.R'>strwrap</a></td>
   </tr>
   <tr>
     <td><code>str_wrap</code></td>
