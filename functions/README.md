@@ -136,6 +136,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rownames.R"                   >rownames</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/runif.R"                      >runif</a>               </td><td></td></tr>
 <!-- } -->
+<!-- { S -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sample.R"                     >sample</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sapply.R"                     >sapply</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/save.R"                       >save</a>                </td><td></td></tr>
@@ -161,6 +162,8 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sum.R"                        >sum</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/summary.R"                    >summary</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/Sys.sleep.R"                  >Sys.sleep</a>           </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/system.time.R"                >system.time</a>         </td><td></td></tr>
+<!-- } -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/t.R"                          >t</a>                   </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/t.test.R"                     >t.test</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/table.R"                      >table</a>               </td><td></td></tr>
