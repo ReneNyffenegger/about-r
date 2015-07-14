@@ -16,6 +16,7 @@
 <!-- } -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/barplot.R"                    >barplot</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/boxplot.R"                    >boxplot</a>             </td><td></td></tr>
+<!-- { C -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/c.R"                          >c</a>                   </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/casefold.R"                   >casefold</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cat.R"                        >cat</a>                 </td><td></td></tr>
@@ -31,6 +32,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/coplot.R"                     >coplot</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cumsum.R"                     >cumsum</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cut.R"                        >cut</a>                 </td><td></td></tr>
+<!-- } -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/data.frame.R"                 >data.frame</a>          </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/density.R"                    >density</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dev.off.R"                    >dev.off</a>             </td><td></td></tr>
@@ -58,8 +60,11 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/gregexpr.R"                   >gregexpr</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/grep.R"                       >grep</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/gsub.R"                       >gsub</a>                </td><td></td></tr>
+<!-- { H -->
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/hclust.R"                     >hclust</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/head.R"                       >head</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/hist.R"                       >hist</a>                </td><td></td></tr>
+<!-- } -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/identical.R"                  >identical</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/identify.R"                   >identify</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ifelse.R"                     >ifelse</a>              </td><td></td></tr>
