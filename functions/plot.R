@@ -30,7 +30,7 @@ z <- locator(1) # wait for mouse click or enter pressed
 
 # }
 
-# {   Plot a function
+# { Plot a function
 
 plot (function(x) { x*x - 7*x - 20 },
       -2, 12)
