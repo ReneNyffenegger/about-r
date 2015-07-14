@@ -1,3 +1,7 @@
+#
+#  S.a. function -> text()
+#
+
 X11()
 
 library(calibrate)

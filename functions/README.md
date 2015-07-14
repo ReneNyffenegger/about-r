@@ -174,14 +174,17 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/Sys.sleep.R"                  >Sys.sleep</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/system.time.R"                >system.time</a>         </td><td>S.a. <code>unix.time</code></td></tr>
 <!-- } -->
+<!-- { T -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/t.R"                          >t</a>                   </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/t.test.R"                     >t.test</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/table.R"                      >table</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/tail.R"                       >tail</a>                </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/text.R"                       >text</a>                </td><td>Add text to a plot. S. a. <a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/calibrate/textxy.R">textxy</a> in library <a href="https://github.com/ReneNyffenegger/about-r/tree/master/libraries/calibrate">calibrate</a></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/tolower.R"                    >tolower</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/toString.R"                   >toString</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/toupper.R"                    >toupper</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/typeof.R"                     >typeof</a>              </td><td></td></tr>
+<!-- } -->
 <!-- { U -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/union.R"                      >union</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unique.R"                     >unique</a>              </td><td></td></tr>
