@@ -162,7 +162,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sum.R"                        >sum</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/summary.R"                    >summary</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/Sys.sleep.R"                  >Sys.sleep</a>           </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/system.time.R"                >system.time</a>         </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/system.time.R"                >system.time</a>         </td><td>S.a. <code>unix.time</code></td></tr>
 <!-- } -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/t.R"                          >t</a>                   </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/t.test.R"                     >t.test</a>              </td><td></td></tr>
@@ -172,9 +172,12 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/toString.R"                   >toString</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/toupper.R"                    >toupper</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/typeof.R"                     >typeof</a>              </td><td></td></tr>
+<!-- { U -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/union.R"                      >union</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unique.R"                     >unique</a>              </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unix.time.R"                  >unix.time.R</a>         </td><td>S.a. <code>system.time</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unname.R"                     >unname</a>              </td><td></td></tr>
+<!-- } -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/var.R"                        >var</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/vector.R"                     >vector</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/which.R"                      >which</a>               </td><td></td></tr>
