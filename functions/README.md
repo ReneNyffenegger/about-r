@@ -102,7 +102,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/levels.R"                     >levels</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/lines.R"                      >lines</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/list.files.R"                 >list.files</a>          </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/list.R"                       >list</a>                </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/list.R"                       >list</a>                </td><td>S.a. <code>unlist</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/lm.R"                         >lm</a>                  </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/log.R"                        >log</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ls.R"                         >ls</a>                  </td><td></td></tr>
@@ -213,6 +213,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unique.R"                     >unique</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unix.time.R"                  >unix.time.R</a>         </td><td>S.a. <code>system.time</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unname.R"                     >unname</a>              </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unlist.R"                     >unlist</a>              </td><td>Flatten lists</td></tr>
 <!-- } -->
 <!-- { V -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/var.R"                        >var</a>                 </td><td></td></tr>
