@@ -65,6 +65,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/head.R"                       >head</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/hist.R"                       >hist</a>                </td><td></td></tr>
 <!-- } -->
+<!-- { I -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/identical.R"                  >identical</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/identify.R"                   >identify</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ifelse.R"                     >ifelse</a>              </td><td></td></tr>
@@ -78,6 +79,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.numeric.R"                 >is.numeric</a>          </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.unsorted.R"                >is.unsorted</a>         </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.vector.R"                  >is.vector</a>           </td><td></td></tr>
+<!-- } -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/jitter.R"                     >jitter</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/lapply.R"                     >lapply</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/layout.R"                     >layout</a>              </td><td></td></tr>
@@ -107,6 +109,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/options.R"                    >options</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/order.R"                      >order</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/outer.R"                      >outer</a>               </td><td></td></tr>
+<!-- { P -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pairs.R"                      >pairs</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/par.R"                        >par</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste.R"                      >paste</a>               </td><td></td></tr>
@@ -118,6 +121,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/predict.R"                    >predict</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/print.R"                      >print</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/prop.table.R"                 >prop.table</a>          </td><td></td></tr>
+<!-- } -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/qqnorm.R"                     >qqnorm</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/qqplot.R"                     >qqplot</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/quantile.R"                   >quantile</a>            </td><td></td></tr>
@@ -151,6 +155,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sd.R"                         >sd</a>                  </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/search.R"                     >search</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/seq.R"                        >seq</a>                 </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sessionInfo.R"                >sessionInfo</a>         </td><td>Collect Information About the Current R Session - Print version information about R, the OS and attached or loaded packages.</td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/setdiff.R"                    >setdiff</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/setequal.R"                   >setequal</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/setwd.R"                      >setwd</a>               </td><td></td></tr>
