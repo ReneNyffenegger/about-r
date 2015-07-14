@@ -23,6 +23,6 @@ plot(x, y, pch=19, col='red',
 #   )
 )
 
-text(x, y, t, col='blue', adj=c(-0.2, -0.2), cex=0.8, bg='green')
+text(x, y, t, col='blue', adj=c(-0.2, -0.2), cex=0.8)
 
 z <- locator(1)
