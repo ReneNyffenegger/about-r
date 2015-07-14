@@ -72,7 +72,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/gsub.R"                       >gsub</a>                </td><td></td></tr>
 <!-- } -->
 <!-- { H -->
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/hclust.R"                     >hclust</a>              </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/hclust.R"                     >hclust</a>              </td><td>Hierachical cluster analysis</td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/head.R"                       >head</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/hist.R"                       >hist</a>                </td><td></td></tr>
 <!-- } -->
