@@ -1,21 +1,31 @@
+X11()
+
 abc <- matrix (
    c( 0, 0, 0,
       0, 0, 3,
       0, 4, 0,
       0, 4, 3,
       4, 0, 0),
-    ncol = 3
+    ncol  = 3,
+    byrow = TRUE
 )
 
-rownames(abc) <- c('Zero', 'Three', 'Four (y)', 'Five', 'Four (x)')
+rownames(abc) <- c('0/0/0', '0/0/3', '0/4/0', '0/4/3', '4/0/0')
+
+plot(abc)
+
+z <- locator(1)
 
 dist <- dist(abc)
 
-as.matrix(dist)
+dist
+#          0/0/0    0/0/3    0/4/0    0/4/3
+# 0/0/3 3.000000
+# 0/4/0 4.000000 5.000000
+# 0/4/3 5.000000 4.000000 3.000000
+# 4/0/0 4.000000 5.000000 5.656854 6.403124
 
 clust <- hclust(dist)
-
-X11()
 
 plot(clust)
 
