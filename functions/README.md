@@ -14,8 +14,10 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/attr.R"                       >attr</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/attributes.R"                 >attributes</a>          </td><td></td></tr>
 <!-- } -->
+<!-- { B -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/barplot.R"                    >barplot</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/boxplot.R"                    >boxplot</a>             </td><td></td></tr>
+<!-- } -->
 <!-- { C -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/c.R"                          >c</a>                   </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/casefold.R"                   >casefold</a>            </td><td></td></tr>
@@ -33,6 +35,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cumsum.R"                     >cumsum</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cut.R"                        >cut</a>                 </td><td></td></tr>
 <!-- } -->
+<!-- { D -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/data.frame.R"                 >data.frame</a>          </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/density.R"                    >density</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dev.off.R"                    >dev.off</a>             </td><td></td></tr>
@@ -42,7 +45,11 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dist.R"                       >dist</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dotchart.R"                   >dotchart</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dump.R"                       >dump</a>                </td><td></td></tr>
+<!-- } -->
+<!-- { E -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/expand.R"                     >expand</a>              </td><td></td></tr>
+<!-- } -->
+<!-- { F -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/factor.R"                     >factor</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/factorial.R"                  >factorial</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/file.exists.R"                >file.exists</a>         </td><td></td></tr>
@@ -54,12 +61,15 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/format.R"                     >format</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/formatC.R"                    >formatC</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ftable.R"                     >ftable</a>              </td><td></td></tr>
+<!-- } -->
+<!-- { G -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/getOption.R"                  >getOption</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/getwd.R"                      >getwd</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/gray.R"                       >gray</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/gregexpr.R"                   >gregexpr</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/grep.R"                       >grep</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/gsub.R"                       >gsub</a>                </td><td></td></tr>
+<!-- } -->
 <!-- { H -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/hclust.R"                     >hclust</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/head.R"                       >head</a>                </td><td></td></tr>
@@ -80,7 +90,10 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.unsorted.R"                >is.unsorted</a>         </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.vector.R"                  >is.vector</a>           </td><td></td></tr>
 <!-- } -->
+<!-- { J -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/jitter.R"                     >jitter</a>              </td><td></td></tr>
+<!-- } -->
+<!-- { L -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/lapply.R"                     >lapply</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/layout.R"                     >layout</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/legend.R"                     >legend</a>              </td><td></td></tr>
@@ -92,6 +105,8 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/lm.R"                         >lm</a>                  </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/log.R"                        >log</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ls.R"                         >ls</a>                  </td><td></td></tr>
+<!-- } -->
+<!-- { M -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/margin.table.R"               >margin.table</a>        </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/matplot.R"                    >matplot</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/matrix.R"                     >matrix</a>              </td><td></td></tr>
@@ -102,13 +117,18 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/methods.R"                    >methods</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/min.R"                        >min</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/mode.R"                       >mode</a>                </td><td></td></tr>
+<!-- } -->
+<!-- { N -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/names.R"                      >names</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/nchar.R"                      >nchar</a>               </td><td>S.a. <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/stringr/str_length.R">str_length</a></code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/noquote.R"                    >noquote</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/numeric.R"                    >numeric</a>             </td><td></td></tr>
+<!-- } -->
+<!-- { O -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/options.R"                    >options</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/order.R"                      >order</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/outer.R"                      >outer</a>               </td><td></td></tr>
+<!-- } -->
 <!-- { P -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pairs.R"                      >pairs</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/par.R"                        >par</a>                 </td><td></td></tr>
@@ -116,16 +136,18 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste0.R"                     >paste0</a>              </td><td>S.a. <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/stringr/str_c.R">str_c</a></code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pdf.R"                        >pdf</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pie.R"                        >pie</a>                 </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/plot.R"                       >plot</a>                </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/plot.R"                       >plot</a>                </td><td>Generic X-Y Plotting.</td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/points.R"                     >points</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/predict.R"                    >predict</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/print.R"                      >print</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/prop.table.R"                 >prop.table</a>          </td><td></td></tr>
 <!-- } -->
+<!-- { Q -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/qqnorm.R"                     >qqnorm</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/qqplot.R"                     >qqplot</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/quantile.R"                   >quantile</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/quote.R"                      >quote</a>               </td><td></td></tr>
+<!-- } -->
 <!-- { R -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/range.R"                      >range</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rank.R"                       >rank</a>                </td><td></td></tr>
@@ -191,11 +213,15 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unix.time.R"                  >unix.time.R</a>         </td><td>S.a. <code>system.time</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unname.R"                     >unname</a>              </td><td></td></tr>
 <!-- } -->
+<!-- { V -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/var.R"                        >var</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/vector.R"                     >vector</a>              </td><td></td></tr>
+<!-- } -->
+<!-- { W -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/which.R"                      >which</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/wireframe.R"                  >wireframe</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/with.R"                       >with</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/write.csv.R"                  >write.csv</a>           </td><td></td></tr>
+<!-- } -->
 
 </table>
