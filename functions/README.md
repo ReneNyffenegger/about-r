@@ -32,7 +32,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/colnames.R"                   >colnames</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/colorRampPalette.R"           >colorRampPalette</a>    </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/colors.R"                     >colors</a>              </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/contour.R"                    >contour</a>             </td><td>S.a. <code>filled.contour</code></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/contour.R"                    >contour</a>             </td><td>S.a. <code>persp</code>, <code>image</code> and <code>filled.contour</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/coplot.R"                     >coplot</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cumsum.R"                     >cumsum</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cut.R"                        >cut</a>                 </td><td></td></tr>
@@ -81,7 +81,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/identical.R"                  >identical</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/identify.R"                   >identify</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ifelse.R"                     >ifelse</a>              </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/image.R"                      >image</a>               </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/image.R"                      >image</a>               </td><td>S.a. <code>contour<code> and <code>persp</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/install.packages.R"           >install.packages</a>    </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/intersect.R"                  >intersect</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/IQR.R"                        >IQR</a>                 </td><td></td></tr>
@@ -137,7 +137,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste.R"                      >paste</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste0.R"                     >paste0</a>              </td><td>S.a. <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/stringr/str_c.R">str_c</a></code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pdf.R"                        >pdf</a>                 </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/persp.R"                      >persp</a>               </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/persp.R"                      >persp</a>               </td><td>S.a <code>contour</code> and <code>image</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pie.R"                        >pie</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/plot.R"                       >plot</a>                </td><td>Generic X-Y Plotting.</td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/points.R"                     >points</a>              </td><td></td></tr>
