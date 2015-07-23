@@ -1,6 +1,6 @@
 install.packages("calibrate")
 install.packages("FNN")
-install.packages("ggplot2")
+install.packages('ggplot2', dependencies=TRUE)
 # install.packages("quantmod")
 install.packages("RODBC")
 install.packages("rgl") #      , repos="http://R-Forge.R-project.org")
