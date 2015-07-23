@@ -25,4 +25,7 @@ plot(x, y, pch=19, col='red',
 
 text(x, y, t, col='blue', adj=c(-0.2, -0.2), cex=0.8)
 
+axis(1, at=seq(floor(min(x)), ceiling(max(x)), 2))
+axis(2, at=seq(floor(min(y)), ceiling(max(y)+5), 5))
+
 z <- locator(1)
