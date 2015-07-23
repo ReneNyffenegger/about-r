@@ -32,7 +32,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/colnames.R"                   >colnames</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/colorRampPalette.R"           >colorRampPalette</a>    </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/colors.R"                     >colors</a>              </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/contour.R"                    >contour</a>             </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/contour.R"                    >contour</a>             </td><td>S.a. <code>filled.contour</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/coplot.R"                     >coplot</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cumsum.R"                     >cumsum</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cut.R"                        >cut</a>                 </td><td></td></tr>
@@ -57,7 +57,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/file.exists.R"                >file.exists</a>         </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/file.R"                       >file</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/file.show.R"                  >file.show</a>           </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/filled.contour.R"             >filled.contour</a>      </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/filled.contour.R"             >filled.contour</a>      </td><td>S.a. <code>contour</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/fitted.R"                     >fitted</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/for.R"                        >for</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/format.R"                     >format</a>              </td><td></td></tr>
@@ -137,6 +137,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste.R"                      >paste</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste0.R"                     >paste0</a>              </td><td>S.a. <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/stringr/str_c.R">str_c</a></code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pdf.R"                        >pdf</a>                 </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/persp.R"                      >persp</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pie.R"                        >pie</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/plot.R"                       >plot</a>                </td><td>Generic X-Y Plotting.</td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/points.R"                     >points</a>              </td><td></td></tr>
