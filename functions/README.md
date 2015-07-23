@@ -220,6 +220,7 @@
 <!-- { V -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/var.R"                        >var</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/vector.R"                     >vector</a>              </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/View.R"                       >View</a>                </td><td></td></tr>
 <!-- } -->
 <!-- { W -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/which.R"                      >which</a>               </td><td></td></tr>
