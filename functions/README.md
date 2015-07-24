@@ -106,6 +106,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/list.R"                       >list</a>                </td><td>S.a. <code>unlist</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/lm.R"                         >lm</a>                  </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/log.R"                        >log</a>                 </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/lower.tri.R"                  >lower.tri.R</a>         </td><td>S.a <code>upper.tri.R</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ls.R"                         >ls</a>                  </td><td></td></tr>
 <!-- } -->
 <!-- { M -->
@@ -216,6 +217,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unix.time.R"                  >unix.time.R</a>         </td><td>S.a. <code>system.time</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unname.R"                     >unname</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/unlist.R"                     >unlist</a>              </td><td>Flatten lists</td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/upper.tri.R"                  >upper.tri.R</a>         </td><td>S.a <code>lower.tri.R</code></td></tr>
 <!-- } -->
 <!-- { V -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/var.R"                        >var</a>                 </td><td></td></tr>
