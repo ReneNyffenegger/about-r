@@ -194,6 +194,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/stripchart.R"                 >stripchart</a>          </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/strsplit.R"                   >strsplit</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/structure.R"                  >structure</a>           </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/subset.R"                     >subset</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/substr.R"                     >substr</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sum.R"                        >sum</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/summary.R"                    >summary</a>             </td><td></td></tr>
