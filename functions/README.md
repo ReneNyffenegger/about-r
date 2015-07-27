@@ -140,7 +140,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pdf.R"                        >pdf</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/persp.R"                      >persp</a>               </td><td>S.a <code>contour</code> and <code>image</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pie.R"                        >pie</a>                 </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/plot.R"                       >plot</a>                </td><td>Generic X-Y Plotting.</td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/plot.R"                       >plot</a>                </td><td>Generic X-Y Plotting. S.a. <a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/rgl/plot3d.R">plot3d (rgl)</a></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/points.R"                     >points</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/predict.R"                    >predict</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/print.R"                      >print</a>               </td><td></td></tr>
