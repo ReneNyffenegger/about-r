@@ -49,7 +49,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dump.R"                       >dump</a>                </td><td></td></tr>
 <!-- } -->
 <!-- { E -->
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/expand.R"                     >expand</a>              </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/expand.grid.R"                >expand.grid</a>         </td><td></td></tr>
 <!-- } -->
 <!-- { F -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/factor.R"                     >factor</a>              </td><td></td></tr>
