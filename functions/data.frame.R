@@ -159,3 +159,15 @@ str(df)
 #  $ c: chr  "foo" "bar" "baz"
 
 # }
+
+# { Determine number of rows and columns
+
+cat("\n\n")
+
+ncol(df)
+# [1] 2
+
+nrow(df)
+# [1] 3
+
+# }
