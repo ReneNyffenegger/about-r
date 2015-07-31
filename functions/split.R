@@ -1,8 +1,6 @@
 df <- data.frame(
- 
   col_1 = c(   1 ,    2 ,    3 ,    4 ,    5 ,    6 ,    7 ,    8 ),
   col_2 = c('Foo', 'Foo', 'Bar', 'Foo', 'Baz', 'Baz', 'Foo', 'Bar')
-
 )
 
 sp <- split(df, df$col_2)
