@@ -125,7 +125,9 @@
 <!-- { N -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/names.R"                      >names</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/nchar.R"                      >nchar</a>               </td><td>S.a. <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/stringr/str_length.R">str_length</a></code></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ncol.R"                       >ncol</a>                </td><td>s.a <code>nrow</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/noquote.R"                    >noquote</a>             </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/nrow.R"                       >nrow</a>                </td><td>s.a <code>ncol</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/numeric.R"                    >numeric</a>             </td><td></td></tr>
 <!-- } -->
 <!-- { O -->
