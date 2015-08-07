@@ -160,7 +160,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rank.R"                       >rank</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rbind.R"                      >rbind</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/read.csv.R"                   >read.csv</a>            </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/read.fwf.R"                   >read.fwf</a>            </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/read.fwf.R"                   >read.fwf</a>            </td><td>Reads <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/data.fixed_width">data.fixed_width</a></code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/readLines.R"                  >readLines</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rep.R"                        >rep</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/replicate.R"                  >replicate</a>           </td><td></td></tr>
