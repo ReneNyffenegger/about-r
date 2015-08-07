@@ -178,7 +178,6 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sample.R"                     >sample</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sapply.R"                     >sapply</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/save.R"                       >save</a>                </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/scale.R"                      >scale</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/scan.R"                       >scan</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/scatter.smooth.R"             >scatter.smooth</a>      </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sd.R"                         >sd</a>                  </td><td></td></tr>
