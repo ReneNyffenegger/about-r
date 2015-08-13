@@ -31,3 +31,6 @@ expand.grid(a, b, c)
 # 25    1    6    9
 # 26    2    6    9
 # 27    3    6    9
+
+typeof(expand.grid(a, b, c))
+# [1] "list"
