@@ -34,3 +34,13 @@ expand.grid(a, b, c)
 
 typeof(expand.grid(a, b, c))
 # [1] "list"
+cat("\n\n")
+
+expand.grid(col_1 = 1:2, col_2 = c('Foo', 'Bar', 'Baz'))
+#   col_1 col_2
+# 1     1   Foo
+# 2     2   Foo
+# 3     1   Bar
+# 4     2   Bar
+# 5     1   Baz
+# 6     2   Baz

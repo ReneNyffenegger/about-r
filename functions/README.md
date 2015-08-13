@@ -125,7 +125,9 @@
 <!-- { N -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/names.R"                      >names</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/nchar.R"                      >nchar</a>               </td><td>S.a. <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/libraries/stringr/str_length.R">str_length</a></code></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ncol.R"                       >ncol</a>                </td><td>s.a <code>nrow</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/noquote.R"                    >noquote</a>             </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/nrow.R"                       >nrow</a>                </td><td>s.a <code>ncol</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/numeric.R"                    >numeric</a>             </td><td></td></tr>
 <!-- } -->
 <!-- { O -->
@@ -158,7 +160,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rank.R"                       >rank</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rbind.R"                      >rbind</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/read.csv.R"                   >read.csv</a>            </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/read.fwf.R"                   >read.fwf</a>            </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/read.fwf.R"                   >read.fwf</a>            </td><td>Reads <code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/data.fixed_width">data.fixed_width</a></code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/readLines.R"                  >readLines</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/rep.R"                        >rep</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/replicate.R"                  >replicate</a>           </td><td></td></tr>
@@ -176,7 +178,6 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sample.R"                     >sample</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sapply.R"                     >sapply</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/save.R"                       >save</a>                </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/scale.R"                      >scale</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/scan.R"                       >scan</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/scatter.smooth.R"             >scatter.smooth</a>      </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sd.R"                         >sd</a>                  </td><td></td></tr>
@@ -189,6 +190,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sort.R"                       >sort</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/source.R"                     >source</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sourced.R"                    >sourced</a>             </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/split.R"                      >split</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sprintf.R"                    >sprintf</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/stem.R"                       >stem</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/str.R"                        >str</a>                 </td><td></td></tr>
