@@ -39,6 +39,7 @@
 <!-- } -->
 <!-- { D -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/data.frame.R"                 >data.frame</a>          </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/decompose.R"                  >decompose</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/density.R"                    >density</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dev.off.R"                    >dev.off</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/diff.R"                       >diff</a>                </td><td></td></tr>
