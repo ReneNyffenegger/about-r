@@ -42,6 +42,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/density.R"                    >density</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dev.off.R"                    >dev.off</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/diff.R"                       >diff</a>                </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/difftime.R"                   >difftime</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dim.R"                        >dim</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dimnames.R"                   >dimnames</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/dist.R"                       >dist</a>                </td><td></td></tr>
