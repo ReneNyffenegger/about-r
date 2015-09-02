@@ -21,3 +21,19 @@ for (V in format(v, justify='centr'))
 
 format(9^10, big.mark = ",")
 # [1] "3,486,784,401"
+
+#  Dates {
+#  -----
+#
+#  See also the lubridate package
+
+dt <- ISOdate(2016, 3, 19, 14, 28, 12)
+# Get Year
+format(dt, "%Y")
+# [1] "2016"
+
+# Get month
+format(dt, "%m")
+# [1] "03"
+
+# }
