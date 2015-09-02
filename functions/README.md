@@ -203,6 +203,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sum.R"                        >sum</a>                 </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/summary.R"                    >summary</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/Sys.sleep.R"                  >Sys.sleep</a>           </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/Sys.time.R"                   >Sys.time</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/system.time.R"                >system.time</a>         </td><td>S.a. <code>unix.time</code></td></tr>
 <!-- } -->
 <!-- { T -->
