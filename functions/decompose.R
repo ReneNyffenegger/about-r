@@ -1,6 +1,6 @@
 x11()
 
-periods            <-  5
+periods                 <-  5
 observations_per_period <- 100
 total_observations      <- periods * observations_per_period
 
