@@ -92,6 +92,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.numeric.R"                 >is.numeric</a>          </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.unsorted.R"                >is.unsorted</a>         </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/is.vector.R"                  >is.vector</a>           </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ISOdate.R"                    >ISOdate</a>             </td><td></td></tr>
 <!-- } -->
 <!-- { J -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/jitter.R"                     >jitter</a>              </td><td></td></tr>
