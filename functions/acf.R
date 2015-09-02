@@ -14,3 +14,8 @@ y <- trend + seasonal + random
 
 acf(y)
 z <- locator(1)
+
+y_diff <- diff(y)
+
+acf(y_diff)
+z <- locator(1)
