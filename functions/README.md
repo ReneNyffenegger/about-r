@@ -3,6 +3,7 @@
 <!-- { A -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/abbreviate.R"                 >abbreviate</a>          </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/abline.R"                     >abline</a>              </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/acf.R"                        >acf</a>                 </td><td>S.a <code>pacf</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/addmargins.R"                 >addmargins</a>          </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/append.R"                     >append</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/apply.R"                      >apply</a>               </td><td></td></tr>
@@ -56,6 +57,7 @@
 <!-- { F -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/factor.R"                     >factor</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/factorial.R"                  >factorial</a>           </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/file.choose.R"                >file.choose</a>         </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/file.exists.R"                >file.exists</a>         </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/file.R"                       >file</a>                </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/file.show.R"                  >file.show</a>           </td><td></td></tr>
@@ -139,6 +141,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/outer.R"                      >outer</a>               </td><td></td></tr>
 <!-- } -->
 <!-- { P -->
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pacf.R"                       >pacf</a>                </td><td>S.a <code>acf</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/pairs.R"                      >pairs</a>               </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/par.R"                        >par</a>                 </td><td>Set or query graphical parameters.</td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/paste.R"                      >paste</a>               </td><td></td></tr>
