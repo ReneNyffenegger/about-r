@@ -82,7 +82,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/identical.R"                  >identical</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/identify.R"                   >identify</a>            </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/ifelse.R"                     >ifelse</a>              </td><td></td></tr>
-   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/image.R"                      >image</a>               </td><td>S.a. <code>contour<code> and <code>persp</code></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/image.R"                      >image</a>               </td><td>S.a. <code>contour</code> and <code>persp</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/install.packages.R"           >install.packages</a>    </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/intersect.R"                  >intersect</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/IQR.R"                        >IQR</a>                 </td><td></td></tr>
