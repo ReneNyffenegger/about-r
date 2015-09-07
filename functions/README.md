@@ -189,6 +189,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sd.R"                         >sd</a>                  </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/search.R"                     >search</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/seq.R"                        >seq</a>                 </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/seq_along.R"                  >seq_along</a>           </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/sessionInfo.R"                >sessionInfo</a>         </td><td>Collect Information About the Current R Session - Print version information about R, the OS and attached or loaded packages.</td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/setdiff.R"                    >setdiff</a>             </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/setequal.R"                   >setequal</a>            </td><td></td></tr>
