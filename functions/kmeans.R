@@ -1,3 +1,6 @@
+#
+#  Compare with ../libraries/fpc/pamk.R
+#
 x11()
 
 set.seed(280870)
