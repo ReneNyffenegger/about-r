@@ -101,6 +101,9 @@
 <!-- { J -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/jitter.R"                     >jitter</a>              </td><td></td></tr>
 <!-- } -->
+<!-- { K -->
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/kmeans.R"                     >kmeans</a>              </td><td></td></tr>
+<!-- } -->
 <!-- { L -->
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/lapply.R"                     >lapply</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/layout.R"                     >layout</a>              </td><td></td></tr>
