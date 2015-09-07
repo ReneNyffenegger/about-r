@@ -17,3 +17,9 @@ points(x1, y1, col=3)
 
 
 z <- locator(1) # wait for mouse click or enter pressed
+
+plot(1:100, 1:100, type='n') # type='n' : invisible
+
+points (1:10*3 + 20, 1:10*3 + 30, pch=letters[1:10])
+
+z <- locator(1)
