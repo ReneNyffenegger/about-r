@@ -29,4 +29,9 @@ index_outlier <- intersect(index_outlier_x, index_outlier_y)
 x11()
 plot(df)
 points(df[index_outlier, ], col='red', pch='+', cex=2)
+
+index_outlier <- union(setdiff(index_outlier_x, index_outlier_y),
+                       setdiff(index_outlier_y, index_outlier_x))
+points(df[index_outlier, ], col='blue', pch='x', cex=2)
+
 z <- locator(1)
