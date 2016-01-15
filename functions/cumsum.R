@@ -3,4 +3,4 @@ cumsum(a1)
 # [1] 2 5 6 2 4
 
 #
-#    See also -> sum
+#    See also -> sum, -> cummax

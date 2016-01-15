@@ -35,6 +35,7 @@
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/colors.R"                     >colors</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/contour.R"                    >contour</a>             </td><td>S.a. <code>persp</code>, <code>image</code> and <code>filled.contour</code></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/coplot.R"                     >coplot</a>              </td><td></td></tr>
+   <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cummax.R"                     >cummax</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cumsum.R"                     >cumsum</a>              </td><td></td></tr>
    <tr><td><code><a href="https://github.com/ReneNyffenegger/about-r/blob/master/functions/cut.R"                        >cut</a>                 </td><td></td></tr>
 <!-- } -->
