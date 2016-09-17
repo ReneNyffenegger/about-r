@@ -50,3 +50,10 @@ named <- c(foo="abc", bar="def", baz="ghi")
 named
 #   foo   bar   baz
 # "abc" "def" "ghi"
+
+# An element within a vector cannot be a vector, in particular, there
+# is no »vector of vectors«:
+vec_one <- c(1,2,3)
+vec_two <- c(4,5,6)
+c(vec_one, vec_two)
+# [1] 1 2 3 4 5 6
