@@ -1,0 +1,3 @@
+vignette()
+
+vignette(package='xts')
