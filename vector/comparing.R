@@ -6,3 +6,6 @@ vec_one == vec_two
 
 vec_one < vec_two
 # [1] FALSE FALSE  TRUE
+
+vec_one == 1
+# [1]  TRUE FALSE FALSE
