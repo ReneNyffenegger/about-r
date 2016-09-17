@@ -4,3 +4,5 @@ vec <- 1:20
 # Perl or C)
 vec[4]
 # [1] 4
+
+vec[8:10]
