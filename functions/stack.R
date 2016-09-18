@@ -15,3 +15,15 @@ s
 # 7    bar col_2
 # 8    baz col_2
 # 9      ? col_3
+
+u <- unstack(s)
+
+u
+# $col_1
+# [1] "1" "2" "3" "4" "5"
+# 
+# $col_2
+# [1] "foo" "bar" "baz"
+# 
+# $col_3
+# [1] "?"
