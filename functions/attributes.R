@@ -32,3 +32,15 @@ attributes(csv_data)
 # 
 # $row.names
 # [1] 1 2
+
+vec <- 1:4
+names(vec) <- c('a', 'b', 'c', 'd')
+attributes(vec)
+# $names
+# [1] "a" "b" "c" "d"
+
+# Obviously, dim(..) removes the names attribute:
+dim  (vec) <- c(2,2)
+attributes(vec)
+# $dim
+# [1] 2 2
