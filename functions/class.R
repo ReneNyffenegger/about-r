@@ -1,6 +1,9 @@
 class(NA)
 # [1] "logical"
 
+class(as.Date('2015-03-12'))
+# [1] "Date"
+
 class("foo")
 # [1] "character"
 
