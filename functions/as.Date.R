@@ -15,3 +15,6 @@ mode(a_date)
 
 length(a_date)
 # [1] 1
+
+class(a_date)
+# [1] "Date"
