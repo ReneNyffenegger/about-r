@@ -5,6 +5,11 @@ summary(g)
 
 cat("\n\n")
 f <- factor(g)
+
+f
+# [1] 1 2 3 1 4 1 5 4
+# Levels: 1 2 3 4 5
+
 summary(f)
 # 1 2 3 4 5
 # 3 1 1 2 1
