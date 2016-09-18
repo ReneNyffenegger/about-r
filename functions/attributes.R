@@ -44,3 +44,8 @@ dim  (vec) <- c(2,2)
 attributes(vec)
 # $dim
 # [1] 2 2
+
+dummy <- factor(vec)
+attributes(vec)
+# $dim
+# [1] 2 2
