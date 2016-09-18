@@ -19,4 +19,10 @@ print(matrix(c('foo', 1, 2, 'bar', 3, 4), 2, 3))
 # [1,] "foo" "2"   "3"
 # [2,] "1"   "bar" "4"
 
+print(10/7)
+# [1] 1.428571
+
+print(10/7, digits=4)
+# [1] 1.429
+
 # See also cat
