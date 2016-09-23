@@ -25,4 +25,10 @@ print(10/7)
 print(10/7, digits=4)
 # [1] 1.429
 
-# See also cat
+string_with_new_line = "foo\nbar"
+print(string_with_new_line)
+# [1] "foo\nbar"
+
+cat  (string_with_new_line)
+# foo
+# bar
