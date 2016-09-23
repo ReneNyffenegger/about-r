@@ -1,4 +1,13 @@
-# Get julian day for a date
-dt <- ISOdate(2016, 8, 28)
-as.integer(dt)
-# [1] 1472385600
+# as.integer: Get seconds since 1970-01-01 
+
+as.integer(ISOdate(1970, 1, 1, 0, 0, 0))
+# [1] 0
+
+as.integer(ISOdate(1970, 1, 1, 0, 0, 1))
+# [1] 1
+
+as.integer(ISOdate(1970, 1, 1, 0, 1, 0))
+# [1] 60
+
+as.integer(ISOdate(1971, 1, 1, 0, 0, 0)) / 24 / 60 / 60
+# [1] 365
