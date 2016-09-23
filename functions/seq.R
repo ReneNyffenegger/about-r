@@ -9,6 +9,13 @@ seq(20, 41, by=4)
 seq(10, 26, length=4)
 # [1] 10.00000 15.33333 20.66667 26.00000
 
+seq(from       = ISOdate(2016, 8, 28),
+    by         = 7  , # Dates are a week apart
+    length.out = 5)
+# [1] "2016-08-28 12:00:00 GMT" "2016-08-28 12:00:07 GMT"
+# [3] "2016-08-28 12:00:14 GMT" "2016-08-28 12:00:21 GMT"
+# [5] "2016-08-28 12:00:28 GMT"
+
 
 # { Parameter along
 df <- data.frame(
