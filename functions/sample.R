@@ -1,6 +1,7 @@
 set.seed(280870)
 
 
+# Generate a random permutation of a vector:
 sample(1:10)
 # [1]  4  2  1  6 10  7  8  5  3  9
 
