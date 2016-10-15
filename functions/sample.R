@@ -8,6 +8,9 @@ sample(1:10)
 sample(1:10, 5)
 # [1]  9  3  7  4 10
 
+# Sample normally returns an element at most once. This can
+# be changed with the replace argument.
+#
 # Generate 100 zeroes or ones:
 sample(c(0,1), 100, replace = TRUE)
 #  [1] 1 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 1 1 0 0 0 1 0 0 1 0 1 0 0 0 0 1 1
