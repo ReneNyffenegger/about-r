@@ -24,5 +24,4 @@ map <- get_googlemap(
 
 ggmap(map, extent = 'device')
 
-# TODO: http://stackoverflow.com/questions/40963761/how-do-i-make-an-r-script-wait-for-a-mouse-click
-Sys.sleep(10)
+readLines('stdin', n=1)

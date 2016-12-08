@@ -19,5 +19,4 @@ str(wthur)
 # Once get_map() has been executed, ggmap can be invoked to plot the data.
 ggmap(wthur)
 
-# TODO: http://stackoverflow.com/questions/40963761/how-do-i-make-an-r-script-wait-for-a-mouse-click
-Sys.sleep(10)
+readLines('stdin', n=1)
