@@ -15,3 +15,12 @@ class(data.frame(c1=1:2, c2=letters[1:2]))
 
 class(noquote("foo"))
 # [1] "noquote"
+
+class( typeof )
+# [1] "function"
+
+class( function(x) { x*x} )
+# [1] "function"
+
+class( A~B )
+# [1] "formula"

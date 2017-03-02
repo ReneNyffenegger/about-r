@@ -89,3 +89,6 @@ typeof( quote(z<-x*y))
 
 typeof( A~B )
 # [1] "language"
+
+typeof( function(x) {x*x} )
+# [1] "closure"
