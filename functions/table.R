@@ -4,11 +4,13 @@
 tab_1 <- table(c("ABC", "DEF", "ABC", "ABC", "GHI", "DEF", "ABC"))
 
 # Elements with their frequencies:
+#
 tab_1
 # ABC DEF GHI
 #   4   2   1
 
-
+# Create a contingency table (aka cross-tabulation) by giving two arguments:
+#
 tab_2 <- table(c("AAA", "AAA", "BBB", "AAA", "AAA", "CCC", "BBB", "BBB", "AAA"),
                c("yyy", "yyy", "qqq", "yyy", "qqq", "iii", "yyy", "qqq", "iii")
               )
