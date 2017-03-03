@@ -6,8 +6,8 @@ y <- x*x*x/8 - 9*x -15
 x11()
 
 plot(
-     c(), c(),  # Empty set, points will be drawn later …
-     type = "n",
+     c(), c(),    # Empty set, points will be drawn later …
+     type = "n",  # start new plot, but don't add data
     xlim=c(-8,12)                  ,
     ylim=c(-45,15)                 ,
   )
