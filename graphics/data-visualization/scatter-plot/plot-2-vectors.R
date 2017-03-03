@@ -3,8 +3,6 @@ x11()
 x <- seq(-6, 10, by=0.25) # c(-6:10)
 y <- x*x*x/8 - 9*x -15
 
-x11()
-
 plot(x, y, 
     main="Scatter Plot"   , # Title
     sub ="plot 2 vectors" , # Sub title 
