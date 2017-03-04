@@ -1,11 +1,10 @@
-
+set.seed(555)
 
 x <- 1:20
 
 A <- 15
 B <- 0.4
 E <- runif(length(x), -1, 1) * (2 + x/20) 
-
 
 y <- A + B*x + E
 
@@ -17,7 +16,8 @@ model <- lm(y~x)
 
 model
 
-abline(model, col='red'  )
-abline(A, B , col='green')
+abline(model, col='red'  , lwd=3)
+abline(A, B , col='green', lwd=3)
 
-z <- locator(1) # wait for mouse click or enter pressed
+# wait for mouse click or enter pressed
+z <- locator(1)
