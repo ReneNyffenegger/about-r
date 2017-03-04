@@ -1,5 +1,10 @@
 #
 #  Compare with lapply and apply
 #
-sapply ( 1:10 , function(e) { e ^ 2 })
-# [1]   1   4   9  16  25  36  49  64  81 100
+
+f <- function(x) { x^2 }
+
+v <- c(4, 2, 5, 8, 7)
+sapply (v, f)
+#
+# [1] 16  4 25 64 49
