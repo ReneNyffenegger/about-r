@@ -24,9 +24,17 @@ d_100 <- c(
       1, 17, 27, 33, 45, 58, 63, 79, 86, 92
 )
 
-hist(d_100, breaks=seq(0,100,by=10)-0.5, freq=FALSE)
+hist(
+  d_100,
+  breaks=seq(0,100,by=10)-0.5,
+  freq=FALSE,
+  main='Histogram with density',
+  xlab='',
+  ylab='')
+
 dens = density(d_100)#, bw="SJ")
 
-lines(dens)
+lines(dens, col='red', lwd=3)
 
-z <- locator(1) # wait for mouse click or enter pressed
+# wait for mouse click or enter pressed
+z <- locator(1)
