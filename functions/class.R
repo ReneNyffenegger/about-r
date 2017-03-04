@@ -22,5 +22,7 @@ class( typeof )
 class( function(x) { x*x} )
 # [1] "function"
 
-class( A~B )
+x<-1:5
+y<-x^2
+class( x~y )
 # [1] "formula"
