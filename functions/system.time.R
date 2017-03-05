@@ -1,7 +1,3 @@
-#
-#  S.a. -> unix.time()
-#
-
 system.time(cat("\nHello World\n"))
 # Hello World
 #    user  system elapsed
