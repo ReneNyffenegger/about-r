@@ -9,6 +9,12 @@ df
 # 2   2  22 222
 # 3   3  33 333
 
+df[2]
+#   bar
+# 1  11
+# 2  22
+# 3  33
+
 df$bar
 # [1] 11 22 33
 
@@ -26,6 +32,15 @@ df[-c(2,3)] # note the -, exclude columns 2 and 3
 # 1   1
 # 2   2
 # 3   3
+
+# Entire 2nd row (note the ,)
+df[2,]
+#   foo bar baz
+# 2   2  22 222
+
+df[2,c(1,3)]
+#   foo baz
+# 2   2 222
 
 summary(df)
 #       foo           bar            baz
