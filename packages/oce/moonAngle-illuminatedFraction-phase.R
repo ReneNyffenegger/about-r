@@ -5,7 +5,7 @@ X11()
 Sys.setlocale("LC_TIME", "en_US.UTF-8")
 
 t_start <- as.POSIXct("2017-02-23", tz='UTC')
-t_end   <- t_start + 75 * 24 * 3600  # 35 days
+t_end   <- t_start + 75 * 24 * 3600  # 75 days
 
 tm <- seq(from = t_start,
            to  = t_end,
