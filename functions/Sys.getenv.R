@@ -1,3 +1,5 @@
-
 Sys.getenv('R_HOME')
-# [1] "C:/PROGRA~1/R/R-31~1.1"
+# [1] "/usr/lib/R"
+
+Sys.getenv('HOME')
+# [1] "/home/rene"
