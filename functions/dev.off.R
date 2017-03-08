@@ -1,3 +1,3 @@
 #
-#   See -> pdf()
+#   See -> pdf(), png() etc
 #
