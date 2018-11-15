@@ -1,4 +1,4 @@
-# runif: uniform distribution
+set.seed(123)
 
 r <- runif(10, -1, 1)
 r
