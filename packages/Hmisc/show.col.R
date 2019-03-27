@@ -1,0 +1,2 @@
+library(Hmisc)
+show.col()
