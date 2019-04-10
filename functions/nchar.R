@@ -7,4 +7,7 @@ nchar("forty-two")
 # [1] 9
 
 nchar(NA)
+# [1] NA
+
+nchar(NA, keepNA=F)
 # [1] 2
