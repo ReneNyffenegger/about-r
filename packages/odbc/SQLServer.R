@@ -50,3 +50,19 @@ if (dbExistsTable(odbc_con, 'r_dataframe')) {
 } else {
    print('There is no table named r_dataframe.');
 }
+
+#
+#   Select with SQL statement.
+#
+stmt = dbSendQuery(odbc_con, 'select col_2, col_3 from r_dataframe where col_1 > 1');
+#
+#  Fetch two records
+#
+res  = dbFetch(stmt, n = 2);
+res;
+
+#
+#  Fetch remaining records.
+#
+res  = dbFetch(stmt);
+res;
