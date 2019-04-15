@@ -48,3 +48,7 @@ mode(data.frame())
 data <- read.csv("data.csv")
 mode(data)
 # [1] "list"
+
+formula <- ~ x
+mode(formula)
+# [1] "call"
