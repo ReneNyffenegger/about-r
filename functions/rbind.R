@@ -6,45 +6,14 @@ c <- c(17, 13, 22, 21, 18)
 
 mat <- rbind(a, b, c)
 
+class(mat)
+# "matrix"
+
+colnames(mat) <- c('val_1', 'val_2', 'val_3', 'val_4', 'val_5')
+
 mat
-#   [,1] [,2] [,3] [,4] [,5]
-# a  100  101  102  103  104
-# b   10   15   20   25   30
-# c   17   13   22   21   18
-
-df_1 <- data.frame(
-  col_1 = c('Foo', 'Bar', 'Baz'),
-  col_2 = c(  11 ,   22 ,   33 )
-)
-
-df_2 <- data.frame(
-  col_1 = c('one', 'two', 'three'),
-  col_2 = c(    1,    2 ,     3  )
-)
-
-df_1
-#   col_1 col_2
-# 1   Foo    11
-# 2   Bar    22
-# 3   Baz    33
-
-df_2
-#   col_1 col_2
-# 1   one     1
-# 2   two     2
-# 3 three     3
-
-
 #
-#  Note, column names bust be the same for rbind to work,
-#  otherwise «names do not match previous names» error is
-#  thrown.
-#
-rbind (df_1, df_2)
-#   col_1 col_2
-# 1   Foo    11
-# 2   Bar    22
-# 3   Baz    33
-# 4   one     1
-# 5   two     2
-# 6 three     3
+#   val_1 val_2 val_3 val_4 val_5
+# a   100   101   102   103   104
+# b    10    15    20    25    30
+# c    17    13    22    21    18
