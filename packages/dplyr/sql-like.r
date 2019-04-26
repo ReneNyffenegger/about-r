@@ -6,6 +6,16 @@ df_orig <- data.frame (
     val = c( 8.32 ,  5.41 ,   0.01 ,  7.71 ,  2.18 ,  7.35 ,   8.69 ,   4.72 , 12.68 ,   5.31 )
 )
 
+
+#
+#    select
+#       id     as ident,
+#       num    as num_english,
+#       val    as price
+#    from
+#       df_orig
+rename(df_orig, ident = id, num_english = num, price = val)
+
 #
 #   create table
 #      df_val_between_3_and_10 as
