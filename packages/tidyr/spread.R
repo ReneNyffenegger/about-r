@@ -38,7 +38,7 @@ normalized
 #  1   Apple     Q1        501  1.09
 #  2   Apple     Q2        873  0.97
 #  3   Apple     Q3        724  0.81
-#  4   Apple     Q4        619    NA
+#  4   Apple     Q4        619  0.55
 #  5  Banana     Q1        109  2.11
 #  6  Banana     Q2        187  2.08
 #  7  Banana     Q3        179  1.94
