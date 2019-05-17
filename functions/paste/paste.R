@@ -17,8 +17,3 @@ paste(1:10, 101:110, letters[1:10], sep="-")
 # recyclation rule:
 paste(c('A', 'B', 'C'), 1:7, sep="-")
 # [1] "A-1" "B-2" "C-3" "A-4" "B-5" "C-6" "A-7"
-
-# paste with collapsing
-paste(c('A', 'B', 'C'), 1:7, sep="-", collapse="/")
-# [1] "A-1/B-2/C-3/A-4/B-5/C-6/A-7"
-
