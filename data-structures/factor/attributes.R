@@ -11,5 +11,5 @@ attributes(fac);
 #  [1] "bar" "baz" "foo"
 # 
 #  $class
-#  [1] "factor
+#  [1] "factor"
 #
