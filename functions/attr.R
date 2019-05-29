@@ -1,9 +1,3 @@
-#
-# All objects can have (named) attributes
-#
-# See also -> attributes()
-#
-
 obj <- c('Foo', 'Bar', 'Baz')
 
 attr(obj, 'First attribute' ) <- "Value for 1st attribute"
