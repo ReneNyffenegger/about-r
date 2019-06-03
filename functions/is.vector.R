@@ -1,17 +1,24 @@
+vec <- c('one', 'two', 'three');
+is.vector(vec);
 #
-#    is.vector() does not test if an object is a vector. Instead it returns
-#    TRUE only if the object is a vector with no attributes apart from names.
+#  TRUE
+
+names(vec) <- c('A', 'B', 'C');
+is.vector(vec);
 #
-#    Use
-#      is.atomic(x) || is.list(x) 
-#    to test if an object is actually a vector.
-# 
+#  TRUE
 
-is.vector( vector() )
-# [1] TRUE
+attr(vec, 'foo') <- 'bar';
+is.vector(vec);
+#
+#  FALSE
 
-is.vector( c(1:10) )
-# [1] TRUE
+lst <- list('e_1', 'e_2', 'e_3');
+is.vector(lst);
+#
+#  TRUE
 
-is.vector(  1:5    )
-# [1] TRUE
+exp <- expression( 4 + 2:5 );
+is.vector(exp);
+#
+#  TRUE
