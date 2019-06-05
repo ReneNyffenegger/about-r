@@ -34,10 +34,3 @@ show(data_ssv)
 # 1    foo bar    baz
 # 2      1   2      3
 # 3 orange     banana
-
-cat("\n\n\n")
-text_csv <- read.csv(text = "head 1,head 2,head 3\nval 1,val 2,val 3\nfoo,bar,baz")
-text_csv
-#   head.1 head.2 head.3
-# 1  val 1  val 2  val 3
-# 2    foo    bar    baz
