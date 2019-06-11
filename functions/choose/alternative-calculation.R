@@ -9,4 +9,6 @@ for (i in 1:n) {
   b <- b * (k-i+1)
 }
 
-paste0('choose(', k, ',', n, '), alternatively calculated:', b/a)
+paste0('choose(', k, ',', n, '), alternatively calculated: ', b/a)
+#
+#   choose(7,3), alternatively calculated: 35
