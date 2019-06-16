@@ -1,8 +1,3 @@
-#
-#   S.a. ../examples/set_operations.R
-#
-
-
 elem_1 = 'Foo'
 elem_2 = 'Bar'
 elem_3 = 'Baz'

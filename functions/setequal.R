@@ -1,7 +1,3 @@
-#
-#   S.a. ../examples/set_operations.R
-#
-
 set_a <- c('Foo', 'Bar', 'Baz'  )
 set_b <- c('One', 'Two', 'Three')
 set_c <- c('Bar', 'Baz', 'Foo'  )
