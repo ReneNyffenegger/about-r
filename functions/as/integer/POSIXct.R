@@ -1,5 +1,3 @@
-# as.integer: Get seconds since 1970-01-01 
-
 as.integer(ISOdate(1970, 1, 1, 0, 0, 0))
 # [1] 0
 
