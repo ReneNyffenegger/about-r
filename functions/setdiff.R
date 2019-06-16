@@ -1,7 +1,3 @@
-#
-#   S.a. ../examples/set_operations.R
-#
-
 a <- c(5, 2, 9, 6, 3, 8)
 b <- c(   2,    6      , 7)
 
