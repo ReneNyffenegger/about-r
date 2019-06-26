@@ -1,2 +1,4 @@
-paste(  c('one', 'two', 'three' ) )
-# [1] "one"   "two"   "three"
+paste(  c('one', 'two', 'three' ),
+        c('A'  , 'B'  , 'C'     )
+     );
+# "one A"   "two B"   "three C"
