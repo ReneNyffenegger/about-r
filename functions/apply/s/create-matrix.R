@@ -3,7 +3,7 @@ vec <- c('abc', 'd', 'ef');
 mat <- sapply(
          vec,
          function(elem) {
-            c(length(elem), toupper(elem))
+            c(nchar(elem), toupper(elem))
          });
 
 class(mat);
@@ -13,5 +13,5 @@ class(mat);
 mat;
 #
 #       abc   d   ef  
-#  [1,] "1"   "1" "1" 
+#  [1,] "3"   "1" "2"
 #  [2,] "ABC" "D" "EF"
