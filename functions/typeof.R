@@ -94,3 +94,6 @@ typeof( x~y )
 
 typeof( function(x) {x*x} )
 # [1] "closure"
+
+typeof(return)
+# [1] "special"
