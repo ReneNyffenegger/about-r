@@ -1,4 +1,3 @@
-
 # Possible values returned by typeof and what they are {
 # ----------------------------------------------------
 #
@@ -97,3 +96,6 @@ typeof( function(x) {x*x} )
 
 typeof(return)
 # [1] "special"
+
+typeof(as.name('foo'));
+# [1] "symbol"
