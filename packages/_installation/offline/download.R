@@ -5,7 +5,6 @@ dep_pkgs <- unlist(tools::package_dependencies(
    packages  = pkgs,
    db        = available.packages(), 
    which     = c('Depends', 'Imports'),
-   version   = version,
    recursive = TRUE
 ));
 
