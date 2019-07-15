@@ -1,5 +1,6 @@
-set_1 = c('the', 'foo', 'the', 'bar', 'and', 'the', 'baz')
-set_2 = c('The', 'Foo', 'the', 'Bar', 'and', 'the', 'Baz')
+set_1 = c('three', 'two', 'four', 'three', 'six');
+set_2 = c('two', 'one', 'four', 'five', 'one', 'six');
 
 union (set_1, set_2)
-# "the" "foo" "bar" "and" "baz" "The" "Foo" "Bar" "Baz"
+#
+# "three" "two"   "four"  "six"   "one"   "five"
