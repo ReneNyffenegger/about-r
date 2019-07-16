@@ -28,9 +28,9 @@ geom_line(
 ) +
 scale_color_manual(
     values = c(
-       '#d35c23',
-       '#b2b112',
-       '#340289')
+       'apple' =  '#d35c23',
+       'banana' = '#b2b112',
+       'cherry' = '#340289')
 ) +
 theme_minimal(
 )
