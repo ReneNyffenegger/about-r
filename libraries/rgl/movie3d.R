@@ -1,6 +1,7 @@
 library(rgl)
-open3d()
-plot3d( cube3d(col="green") )
+
+open3d();
+plot3d(cube3d(col="green"));
 
 M <- par3d("userMatrix")
 
@@ -12,6 +13,4 @@ movie3d(
   dir     = '.',
   clean   = FALSE,
   duration= 4
-)
-
-readLines("stdin", n = 1)
+);
