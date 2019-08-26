@@ -7,7 +7,7 @@ data <- data.frame (
    freq = c( 1 ,  2 ,  3 ,  3 ,  2 ,  1 ,  1 ,  2 ,  3 ,  4 ,  5 ,  6 ,  7 ,  8 ,  9 ,  1 ,  2 ,  3 )
 );
 
-ggplot(as.data.frame(data),
+ggplot(data,
   aes(y     = freq,
       axis1 = v_1,
       axis2 = v_2,
