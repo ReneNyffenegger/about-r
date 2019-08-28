@@ -7,9 +7,10 @@ library(rgl)
 z <- volcano
 
 #
-# Two vectors that contain the «meters» from the zero point.
-# A call in the grid is 10x10 meters, so we need to multiply
-# the vectors with 10:
+# Two vectors that contain the «meters» from the zero point
+# in x and y direction.
+# A cell in the grid is 10x10 meters, so we need to multiply
+# the vectors by 10:
 #
 x <- 10 * (1:nrow(z)) # Should that not be ncol?
 y <- 10 * (1:ncol(z)) # Should that not be nrow?
