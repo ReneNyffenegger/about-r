@@ -7,8 +7,7 @@ library(rgl)
 z <- volcano
 
 #
-# Two vectors that contain the «meters» from the zero point
-# in x and y direction.
+# Two vectors that contain the «meters» from the zero point.
 # A cell in the grid is 10x10 meters, so we need to multiply
 # the vectors by 10:
 #
@@ -23,22 +22,23 @@ height_to_color <- terrain.colors(z_diff)
 
 colors <- height_to_color[ z - z_min + 1 ];
 
-rgl.open()
-rgl.bg(color='white');
+open3d() # rgl.open()
+# rgl.bg(color='white');
 par3d(windowRect=c(34, 57, 727, 707))
-rgl.surface(x, y, z, color=colors);
+surface3d(x, y, z, color=colors); # rgl.surface
+
 
 view3d(
    userMatrix = matrix(
       c(
-          0.9372320 , 0.0000000 ,  0.3487064 , 0,
-          0.2481279 , 0.7026186 , -0.6669031 , 0,
-         -0.2450076 , 0.7115667 ,  0.6585166 , 0,
-          0.0000000 , 0.0000000 ,  0.0000000 , 1
+          0.972062767 , -0.1212740 , -0.2009648 , 0 ,
+          0.234625295 ,  0.4775052 ,  0.8467230 , 0 ,
+         -0.006723508 , -0.8702192 ,  0.4926187 , 0 ,
+          0.000000000 ,  0.0000000 ,  0.0000000 , 1
       ),
-      nrow = 4,
+      nrow  = 4,
       byrow = TRUE
   )
 )
 
-rgl.bringtotop()
+# rgl.bringtotop()
