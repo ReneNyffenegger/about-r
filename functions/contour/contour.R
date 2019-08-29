@@ -1,5 +1,3 @@
-x11()
-
 x <- seq(-10, 10, length=200)
 y <- seq(-10, 10, length=200)
 
@@ -18,5 +16,3 @@ z <- matrix (
 )
 
 contour(z)
-
-locator(1)
